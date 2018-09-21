@@ -586,7 +586,7 @@ INetCafé Auto Loot received
 505
 Шепот
 506
-Пред. друж.
+Дружба
 508
 Использовать предмет: {0}/{1}
 509
@@ -750,7 +750,7 @@ Magic Accuracy
 618
 Частичный урон
 619
-Шанс крит. удара
+Крит
 620
 Magic Crit Rate
 621
@@ -758,7 +758,7 @@ Magic Crit Rate
 622
 Magic Crit Resistance
 623
-Шанс крит. удара
+Крит
 624
 Magic Crit Rate
 625
@@ -970,13 +970,13 @@ Cooldown:
 768
 Duration:
 769
-sec
+сек
 770
-min
+мин
 771
-hrs
+ч
 772
-days
+дней
 773
 Мин. ур.
 774
@@ -1496,7 +1496,7 @@ Sanctum District
 1302
 Alliance District
 1303
-Начальные рейды
+Рейды
 1304
 <font color='#FF0000'>Rookie raids and Alliance raids</font> have opened in all districts.
 1311
@@ -1606,7 +1606,7 @@ Team
 2106
 Онлайн ({0})
 2107
-Оффлайн ({0})
+Офлайн ({0})
 2108
 Character name
 2109
@@ -1628,7 +1628,7 @@ Leave team
 2117
 Whisper
 2118
-Unfriend
+Удалить
 2119
 Block
 2120
@@ -1662,7 +1662,7 @@ They are already registered as your friend. \nDo you want to block them?
 2203
 Исходящие
 2204
-Сохранённое
+Сохранённые
 2205
 Messages from {0}
 2206
@@ -1800,35 +1800,35 @@ Channel {0}
 2506
 LV{0}
 2520
-Search active
+Поиск
 2521
-Start search
+Найти
 2522
-Character
+Герой
 2523
-LV
+УР
 2524
-Search
+Найти
 2525
-Friends today
+Ищут друзей
 2526
-Revoke
+Отменить
 2540
 Friends
 2541
 Find friends
 2542
-Pending friend request ({0})
+Запросов дружбы ({0})
 2543
-Online ({0})
+Онлайн ({0})
 2544
-Offline ({0})
+Офлайн ({0})
 2545
-Find friends
+Поиск друзей
 2546
 Character name
 2547
-Find friends
+Найти
 2548
 Friend request
 2560
@@ -2892,7 +2892,7 @@ Blood Rage 2
 9204
 Район №6
 9205
-Начальный рейд
+Рейд
 9206
 Золотая Цитадель
 9207
@@ -3794,7 +3794,7 @@ Withdraw
 16838
 {0} hrs
 16839
-{0} days
+{0} дней
 16840
 All characters
 16841
@@ -3934,11 +3934,11 @@ Quantity to list
 18043
 The items {0}, {1} and {2} will be put on display. Do you want to continue?
 18044
-{0} days
+{0} дней
 18045
-{0} hrs
+{0} ч
 18046
-{0} min
+{0} мин
 18047
 Within 1 min
 18048
@@ -6628,7 +6628,7 @@ Magic Accuracy
 26043
 Partial Damage
 26044
-Шанс крит. удара
+Крит
 26045
 Magic Crit Rate
 26046
@@ -6636,7 +6636,7 @@ Magic Crit Rate
 26047
 Magic Crit Resistance
 26048
-Шанс крит. удара
+Крит
 26049
 Magic Crit Rate
 26050
@@ -6724,7 +6724,7 @@ Effect Received: Fire
 26091
 Effect: Reflection
 26092
-Сопр. к кровопот.
+Сопр. к кровотечению
 26093
 Сопр. к оглушению
 26094
@@ -8140,7 +8140,7 @@ Team applicant
 31080
 Прис.
 31081
-Искать
+Найти
 31082
 Завершить
 31083
@@ -8152,7 +8152,7 @@ Invite
 31086
 Заявка
 31087
-Убрать
+Завершить
 31088
 Decline
 31089
@@ -8170,9 +8170,9 @@ Decline
 31095
 Ур.
 31096
-Персонаж
+Герой
 31097
-Локация
+Место
 31098
 Осталось
 31099
@@ -8252,7 +8252,7 @@ The team has too many applications to join
 31136
 Ок
 31137
-Завершить
+Снять
 31138
 The team has been formed.
 31139
@@ -14376,15 +14376,15 @@ Damage received at HP below 20% has a 10% probability of activating ‘Exalted�
 27929
 Damage received at HP below 20% has a 10% probability of activating ‘Exalted’ for 1.5 sec.
 19050
-<font color='#47C83E'>ШАНС КРИТ. УДАРА 1%</font>
+<font color='#47C83E'>КРИТ 1%</font>
 19051
-<font color='#4374D9'>ШАНС КРИТ. УДАРА 2%</font>
+<font color='#4374D9'>КРИТ 2%</font>
 19052
-<font color='#E0B94F'>ШАНС КРИТ. УДАРА 4%</font>
+<font color='#E0B94F'>КРИТ 4%</font>
 19053
-<font color='#F15F5F'>ШАНС КРИТ. УДАРА 6%</font>
+<font color='#F15F5F'>КРИТ 6%</font>
 19054
-<font color='#8041D9'>ШАНС КРИТ. УДАРА 9%</font>
+<font color='#8041D9'>КРИТ 9%</font>
 19055
 <font color='#47C83E'>EVA 40</font>
 19056
