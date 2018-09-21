@@ -20,7 +20,7 @@ OK
 10
 Внести
 11
-Снять
+Убрать
 12
 Ввод
 13
@@ -88,17 +88,17 @@ Invade
 63
 Украшение
 90
-Хару Эстиа
+Хару
 91
-Эрвин Арклайт
+Эрвин
 92
-Лили Блуммерчен
+Лили
 93
-Jin Seipatsu
+Чжин
 94
-Стелла Юнибелл
+Стелла
 95
-Ирис Юма
+Ирис
 99
 Все
 100
@@ -646,7 +646,7 @@ Called by {0}:
 549
 님에게
 551
-{0} приглашает вас в группу. Хотите присоединиться?\nОставшееся время: {1} sec
+{0} приглашает вас в группу.\nОставшееся время: {1} sec
 552
 Если вы покинете группу, то будете телепортированы в черту города. Уверены, что хотите покинуть группу?
 553
@@ -754,7 +754,7 @@ Magic Accuracy
 620
 Magic Crit Rate
 621
-Сопр. к крит. удару
+Сопр. к криту
 622
 Magic Crit Resistance
 623
@@ -762,7 +762,7 @@ Magic Crit Resistance
 624
 Magic Crit Rate
 625
-Урон крит. удара
+Крит урон
 626
 Magic Crit Attack
 627
@@ -934,7 +934,7 @@ Single player
 749
 Recommended for teams
 750
-Минимальный уровень
+Минимальный ур.
 751
 Equipped items
 752
@@ -974,7 +974,7 @@ Duration:
 770
 мин
 771
-ч
+час
 772
 дней
 773
@@ -1058,7 +1058,7 @@ You can add a socketable item (SF amplifier/Soulstone).
 813
 Not enough items/assets to socket.
 814
-Fees
+Стоимость
 815
 Add Socketable Item (SF Amplifier/Soulstone)
 816
@@ -1496,7 +1496,7 @@ Sanctum District
 1302
 Alliance District
 1303
-Рейды
+Начальные Рейды
 1304
 <font color='#FF0000'>Rookie raids and Alliance raids</font> have opened in all districts.
 1311
@@ -1722,7 +1722,7 @@ Reply
 2243
 Закрыть
 2244
-Collect
+Получить
 2245
 Написать
 2246
@@ -2580,7 +2580,7 @@ Failed to add the Akasha skill.
 6041
 Можно снять
 6042
-Remove Akasha
+Снять А.К.
 6043
 Добавить/Снять
 6044
@@ -2852,7 +2852,7 @@ Can’t accept the reward because there’s no room in the inventory.
 8347
 За вход
 8348
-Один раз в день вы получаете награду за вход в игру
+Раз в день вы получаете награду за вход в игру
 8400
 Dead
 8401
@@ -2892,7 +2892,7 @@ Blood Rage 2
 9204
 Район №6
 9205
-Рейд
+Начальный Рейд
 9206
 Золотая Цитадель
 9207
@@ -2922,7 +2922,7 @@ Front Line
 9331
 NED Company
 9341
-Breakout
+Побег
 9401
 Грэйс Сити
 9411
@@ -3056,9 +3056,9 @@ Ruin Fortress: Safe Short-cut
 9987
 [Steel Graves] Ruin Fortress
 9988
-Gate to Golden Citadel
+Врата Золотой Цитадели
 9989
-Golden Citadel
+Золоатя Цитадель
 9990
 Hall of Omens
 9991
@@ -3678,11 +3678,11 @@ The world I knew is gone.\nEverything seems to strange and unpleasant. I don’t
 16552
 Магич.
 16553
-Необыч.
+Необ.
 16554
-Уникал.
+Уник.
 16555
-Легендар.
+Леген.
 16556
 Героич.
 16562
@@ -5660,7 +5660,7 @@ Relic
 24017
 Задания
 24018
-Blueprint
+Чертёж
 24019
 SF Amplifiers
 24020
@@ -6632,7 +6632,7 @@ Partial Damage
 26045
 Magic Crit Rate
 26046
-Защита от крит. удара
+Защита от крита
 26047
 Magic Crit Resistance
 26048
@@ -7418,11 +7418,11 @@ You cannot apply right now because there are too many applications pending.
 28103
 Guild membership application exceeded
 28104
-{0} days ago
+{0} дн. назад
 28105
-{0} hrs ago
+{0} час. назад
 28106
-{0} min ago
+{0} мин. назад
 28107
 You joined the {0} Guild.
 28108
@@ -7466,27 +7466,27 @@ Not enough dzenai in the Guild Bank to level-up the skill.
 28127
 Select guild successor
 28128
-Name
+Ник
 28129
-Level
+Уровень
 28130
-Class
+Герой
 28131
-Position
+Должность
 28132
 Selection completed
 28133
-Guild
+Гильдия
 28134
 Guild Emblem
 28135
 Level
 28136
-Guild master
+Лидер
 28137
-Members
+Участники
 28138
-Vice Master
+Заместитель
 28139
 Place
 28140
@@ -7496,11 +7496,11 @@ Capital
 28142
 Заметки
 28143
-Write
+Написать
 28144
-Send
+Отправить
 28145
-Cancel
+Отмена
 28146
 Расширения
 28147
@@ -7508,7 +7508,7 @@ Cancel
 28148
 Новости
 28149
-Applicants
+Заявки
 28150
 Guild Options
 28151
@@ -7590,7 +7590,7 @@ Transfer guild
 28189
 Disband guild
 28190
-Guild member
+Участник
 28191
 President
 28192
@@ -7598,15 +7598,15 @@ Novice
 28193
 {0} дней
 28194
-{0} hrs
+{0} часов
 28195
-{0} min
+{0} минут
 28196
 Guild details
 28197
-Last login
+Последний вход
 28198
-Position
+Должность
 28199
 Please state position to be added.
 28200
@@ -7628,7 +7628,7 @@ View condition
 28208
 As a guild disbandment penalty, it won’t be possible to form a new guild for {0} hours.
 28209
-You need permission to write here.
+Нужно разрешение, чтобы писать здесь.
 28210
 Message
 28211
@@ -7664,9 +7664,9 @@ Level
 28226
 Info
 28227
-Logbook
+События
 28228
-Time
+Дата/Время
 28229
 Received {0} GXP.
 28230
@@ -8214,7 +8214,7 @@ This team has too many applicants. Please try again later.
 31117
 Подать заявку на поиск группы на 10 минут?
 31118
-Завершить поиск?
+Убрать заявку на вступление в группу?
 31119
 Look for More {0}/Target {1}/Team leader {2}/Team player {3}/4
 31120
@@ -8820,7 +8820,7 @@ Status
 35013
 Прочая информация
 35100
-Помощь
+Справка
 35101
 Черный список
 35102
@@ -11886,7 +11886,7 @@ Fragments will be extracted from {0}.\nThe Soulstone disintegrates and you recei
 49001
 Сюжет
 49002
-Бросить
+Отказаться
 49003
 Награда
 49004
@@ -12138,7 +12138,7 @@ http://cafe.naver.com/fakesoul/152
 49500
 - Click here for help.
 49501
-Help
+Справка
 49600
 Warning
 49601
@@ -14426,15 +14426,15 @@ Damage received at HP below 20% has a 10% probability of activating ‘Exalted�
 19074
 <font color='#8041D9'>КРИТ. ШАНС 5% / раскол брони 3% / крит. урон 350</font>
 19075
-<font color='#47C83E'>Защита от крит. удара 2%</font>
+<font color='#47C83E'>Защита от крита 2%</font>
 19076
-<font color='#4374D9'>Защита от крит. удара 4%</font>
+<font color='#4374D9'>Защита от крита 4%</font>
 19077
-<font color='#E0B94F'>Защита от крит. удара 6%</font>
+<font color='#E0B94F'>Защита от крита 6%</font>
 19078
-<font color='#F15F5F'>Защита от крит. удара 8% / 1% critical hit</font>
+<font color='#F15F5F'>Защита от крита 8% / 1% critical hit</font>
 19079
-<font color='#8041D9'>Crit resistance 10% / 3% critical hit</font>
+<font color='#8041D9'>Защита от крита 10% / 3% critical hit</font>
 19080
 <font color='#47C83E'>ОЗ 2%</font>
 19081
