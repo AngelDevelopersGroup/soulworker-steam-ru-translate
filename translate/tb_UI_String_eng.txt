@@ -682,7 +682,7 @@ The rented Akasha will be inserted into exclusive slots automatically.
 571
 Do you want to use the item ‘{0}’?\nYou can’t sell or trade Akasha skills you received through items.
 572
-Минимальный уровень
+Минимальный ур.
 573
 Очков умения
 574
@@ -780,7 +780,7 @@ Resistance: Other Trauma
 640
 Профиль
 641
-Пред. дружбу
+В друзья
 642
 Шепот
 643
@@ -788,9 +788,9 @@ Resistance: Other Trauma
 644
 Следовать
 645
-Приг. в группу
+В группу
 646
-Приг. в гильдию
+В гильдию
 647
 Заблокировать
 651
@@ -1288,19 +1288,19 @@ Insufficient upgrade materials or fees.
 962
 Защита от слома
 963
-DZ required
+Стоимость ДЗ
 964
 BP required
 965
 The item may be destroyed, depending on the outcome of the upgrade.
 966
-Защита от слома доступна после 4-го уровня улучшения.
+Доступна после 4-го уровня улучшения.
 967
-Upgrade
+Улучшение
 968
 Выберите предмет для обмена.
 969
-КОЛВО:
+К-ВО:
 970
 ▲
 971
@@ -1678,13 +1678,13 @@ Title
 2211
 Влож.: DZ
 2212
-HEMS fees
+Стоимость
 2213
-Dzenai
+Дзенаи
 2214
-No subject
+Без темы
 2215
-No contents
+Пусто
 2216
 Автор
 2217
@@ -1752,7 +1752,7 @@ If you accept the attachment, you will be charged {0} DZ.\nDo you want to accept
 2265
 Messages containing invoices can’t be deleted.
 2266
-You can’t send messages to yourself.\nIt is not a time capsule.
+Нельзя отправлять сообщения самому себе.\nЭто не капсула времени.
 2267
 The user does not exist.
 2268
@@ -1796,13 +1796,13 @@ Offline
 2504
 {0} hours left
 2505
-Channel {0}
+Канал {0}
 2506
-LV{0}
+УР{0}
 2520
-Поиск
+В поиске
 2521
-Найти
+Искать
 2522
 Герой
 2523
@@ -1814,9 +1814,9 @@ LV{0}
 2526
 Отменить
 2540
-Friends
+Друзья
 2541
-Find friends
+Поиск
 2542
 Запросов дружбы ({0})
 2543
@@ -1830,7 +1830,7 @@ Character name
 2547
 Найти
 2548
-Friend request
+Добавить
 2560
 Guild
 2561
@@ -1846,7 +1846,7 @@ Players to block
 2584
 Block
 2585
-Cancel
+Убрать
 3001
 Goods from {0}:
 3002
@@ -2082,7 +2082,7 @@ Stamina
 5008
 Следующий уровень:
 5009
-Минимальный уровень:
+Минимальный ур.:
 5010
 Очков умения:
 5011
@@ -3058,7 +3058,7 @@ Ruin Fortress: Safe Short-cut
 9988
 Врата Золотой Цитадели
 9989
-Золоатя Цитадель
+Золотая Цитадель
 9990
 Hall of Omens
 9991
@@ -3180,7 +3180,7 @@ The remaining SoulDreg horde and Mad Edgar’s Mannequin army are up to their ev
 10105
 Blazing voids, everywhere. There came from nowhere and filled all of Cloudream.\nOne even in a deserted sector of the city. This void was different to the others.\nWhilst the Bashai continued to stream out of the gaping void in the sky down onto the streets, other beings started to gather in each sector, in a form very similar to that of SoulWorkers.\nThe Starry Forest League lost the ability to tell friend from foe and, as a solution, put a machine to work: it was supposed to banish these strange beings and the Great Void with a single strike.
 10201
-Zone Map
+Карта
 10211
 Alpha Mode
 10212
@@ -4052,17 +4052,17 @@ Purchase failed: not enough RP
 18190
 Уровень улучшения
 18191
-Anti-Destruction
+Защита от слома
 18192
 Эффекты улучшения
 18193
 Улучшение на этом уровне не даёт никаких эффектов.
 18194
-Enhance effects
+Атрибуты
 18195
-Option count
+Доступно
 18196
-Усилить
+Применить
 18197
 Click OK to change {0}’s effects. Do you want to change the effects like this?
 18198
@@ -4096,7 +4096,7 @@ You remove {1} brooch(es) from {0} item(s).
 18212
 Item {0} not available for removing brooches.
 18213
-Enhance rank
+Качество
 18214
 The item’s rarity may also fall when attempting enhancement.
 18215
@@ -4934,11 +4934,11 @@ You don’t have enough dzenai for crafting.
 21105
 You don’t have enough dzenai for crafting.\nCrafted {0} lots.
 21400
-Board Chopper
+Перемещение
 21401
-{0}Do you want to be taken to the secure zone?\nDZ required: {1}
+Место прибытия: {0}\nВы хотите переместиться?\nСтоимость: {1} ДЗ
 21402
-DZ required:
+Стоимость ДЗ: 
 21500
 Attack and Heal
 21501
@@ -5174,13 +5174,13 @@ Ally damage
 22211
 Target damage
 22212
-Camera
+Камера
 22213
-Camera to show skills
+Умения
 22214
-Camera shake
+Дрожь
 22215
-Camera sensitivity
+Чувствительность
 22216
 UI
 22217
@@ -5354,7 +5354,7 @@ Check item name
 22533
 Enter Akasha mode
 22534
-Дост./Спр. оружие
+Показать оружие
 22535
 Камера
 22536
@@ -5598,7 +5598,7 @@ Shortcut with START button not possible.
 22677
 FPS
 22678
-Авто-подбор
+Авто-подбор предметов
 22679
 Setting for combination with {0} button not possible.
 22680
@@ -6678,7 +6678,7 @@ Red. Enemy Magic Defence
 26068
 Снижение урона: PvP
 26069
-Доп. урон: Обычные
+Доп. урон: Обычный
 26070
 Доп. урон: Босс / Именной
 26071
@@ -6686,9 +6686,9 @@ Red. Enemy Magic Defence
 26072
 Доп. урон: Дальний бой
 26073
-Доп. урон: Подброшенные
+Доп. урон: Подброшенный
 26074
-Доп. урон: Incapacitated
+Доп. урон: Опрокинутый
 26075
 Снижение урона: Обычные
 26076
@@ -6724,7 +6724,7 @@ Effect Received: Fire
 26091
 Effect: Reflection
 26092
-Сопр. к кровотечению
+Сопр. к кровотеч.
 26093
 Сопр. к оглушению
 26094
@@ -7418,7 +7418,7 @@ You cannot apply right now because there are too many applications pending.
 28103
 Guild membership application exceeded
 28104
-{0} дн. назад
+{0} дней назад
 28105
 {0} час. назад
 28106
@@ -7584,7 +7584,7 @@ Guild forming fee
 28186
 100,000 DZ
 28187
-Guild store
+Склад гильдии
 28188
 Transfer guild
 28189
@@ -8146,7 +8146,7 @@ Team applicant
 31083
 Начать поиск
 31084
-Invite
+Пригл.
 31085
 Профиль
 31086
@@ -8252,7 +8252,7 @@ The team has too many applications to join
 31136
 Ок
 31137
-Снять
+Убрать
 31138
 The team has been formed.
 31139
@@ -8314,7 +8314,7 @@ The team search was cancelled by the user.
 31167
 The team is engaged in combat. Do you want to invade now?\nTime remaining: {0} sec
 31168
-Please select the target.
+Выберите место прибытия.
 31169
 Enemies have weakened due to team players leaving.
 31170
@@ -11720,7 +11720,7 @@ Insufficient dzenai.
 47021
 You have used up your mount boost. Cannot be used.
 48001
-Compatible relationship
+Совместимость атрибутов
 48002
 Extract
 48003
@@ -11792,7 +11792,7 @@ _[#00FF00{0}]_
 48400
 Entry time
 48401
-Compatible relationship
+Совместимость атрибутов
 48402
 Выбор атрибута
 48403
@@ -11830,7 +11830,7 @@ Extract Fragment
 48422
 Swap Fragment
 48423
-DZ required
+Стоимость ДЗ
 48424
 Fragment List
 48425
@@ -12156,7 +12156,7 @@ This resolution is not supported.
 49607
 Использовать
 49608
-Группы
+Группа
 49609
 Текущий
 49610
@@ -14090,7 +14090,7 @@ Matchmaking in progress. <font color='#FFBB00'>{0}</font> sec remaining
 60501
 1–4 игроков
 60502
-4-player team
+Группа из 4-х игроков 
 60503
 Энерг.
 60504
