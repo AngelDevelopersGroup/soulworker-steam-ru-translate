@@ -452,11 +452,11 @@ SoulCash
 430
 Все
 431
-Тип
+Вид
 432
 Персонаж
 433
-Уровень
+Тип
 434
 Предметы в диапазоне 4 уровней
 435
@@ -464,7 +464,7 @@ SoulCash
 436
 Основа
 437
-Дополнит.
+Примесь
 438
 В наличии
 439
@@ -5130,13 +5130,13 @@ FIXED CAMERA MODE
 22103
 The character and camera are aligned. When the camera moves, the character moves as well.
 22104
-Уворот 2x кнопкой движения
+Уворот кнопкой движения
 22105
 FREE CAMERA MODE
 22106
 The camera and character are separated so the point of view can be changed as required.
 22107
-Атака в направлении камеры
+Атака в направ. камеры
 22108
 Camera point of view
 22109

@@ -26,9 +26,9 @@ Fashion (Normal)
 22
 Fashion (Premium)
 31
-Consumables
+Расходники
 32
-Miscellaneous
+Прочее
 51
 Оружие Души
 52
@@ -46,11 +46,11 @@ Pets
 73
 Jewellery
 74
-Consumables
+Расходники
 75
 Akasha
 76
-Miscellaneous
+Прочее
 99
 Token
 111
@@ -172,7 +172,7 @@ All
 761
 All
 999
-Miscellaneous
+Прочее
 1000
 All
 1001
@@ -196,7 +196,7 @@ Fashion
 1203
 My Home
 1204
-Miscellaneous
+Прочее
 1301
 Hairstyle
 1302
@@ -232,11 +232,11 @@ Indoor
 1505
 Accessories
 1506
-Miscellaneous
+Прочее
 1601
 Functional
 1602
-Consumables
+Расходники
 1603
 Potions
 2100
@@ -250,13 +250,13 @@ Indoor
 2400
 Bathroom
 2500
-Miscellaneous
+Прочее
 2600
-Miscellaneous
+Прочее
 2700
-Miscellaneous
+Прочее
 2800
-Miscellaneous
+Прочее
 2900
 Accessories
 2101
@@ -332,7 +332,7 @@ Gardening
 3301
 Plants
 3302
-Miscellaneous
+Прочее
 763
 Complexion
 764
@@ -354,7 +354,7 @@ Limited Title
 4003
 Коса
 4004
-Miscellaneous
+Прочее
 4005
 Перчатки
 4006
@@ -370,21 +370,21 @@ Miscellaneous
 4104
 Сапоги
 4110
-Process material
+Материал
 4111
-Mineral
+Минерал
 4112
-Armour Core
+Основа экипировки
 4113
-Weapon Core
+Основа оружия
 4114
-Hon
+Душа
 4115
 Craft for Quest
 4116
-Fashion
+Одежда
 4150
-Fashion
+Одежда
 4151
 Head Decoration
 4152
@@ -434,7 +434,7 @@ Weaponry
 4402
 Defensive Item
 4500
-Miscellaneous
+Прочее
 4501
 Tool Box
 4700
@@ -466,7 +466,7 @@ Fragment+
 4806
 Fragment¥
 5000
-Consumables
+Расходники
 5001
 Ticket
 5003
@@ -508,11 +508,11 @@ Stamina
 6003
 Components
 3998
-ОЗ
+Здоровье
 3999
-СФ
+Сила Души
 4601
-Fashion
+Одежда
 4602
 Akasha
 4603
@@ -524,9 +524,9 @@ Start
 5202
 Parcel
 5203
-Fashion
+Одежда
 5204
-Fashion (Appearance)
+Одежда (Вид)
 5205
 Comfort
 5301
@@ -534,7 +534,7 @@ Comfort
 5302
 Event
 5303
-Fashion
+Одежда
 5304
 Brooch
 5305
@@ -556,7 +556,7 @@ Hat
 5313
 Glasses
 5314
-Miscellaneous
+Прочее
 5315
 Eye Colour
 5316
@@ -586,7 +586,7 @@ Packs
 8003
 Form
 8004
-Fashion
+Одежда
 8005
 Interior Furniture
 8006
