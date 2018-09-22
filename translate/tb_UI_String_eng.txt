@@ -4098,7 +4098,7 @@ Item {0} not available for removing brooches.
 18213
 Качество
 18214
-The item’s rarity may also fall when attempting enhancement.
+При попытке улучшения качество так же может понизиться.
 18215
 This item will not be destroyed.
 18300
@@ -14186,7 +14186,7 @@ The Dimension Trip ranking is updated hourly.
 10001
 Grutinian
 53208
-Эффект сета
+Эффект набора
 53209
 Экипировка
 53210
