@@ -464,7 +464,7 @@ SoulCash
 436
 Основа
 437
-Примесь
+Сырьё
 438
 В наличии
 439
@@ -622,7 +622,7 @@ INetCafé Auto Loot received
 525
 Отклонить
 531
-Не в сети
+Офлайн
 536
 One
 537
@@ -846,7 +846,7 @@ Received for rank: {0} XP
 705
 Auction House
 706
-Crafting
+Изготовление
 707
 Fashion (not set)
 708
@@ -1152,7 +1152,7 @@ Back
 877
 Underwear
 878
-<font color='#FF0000'>Storing not possible</font>
+<font color='#FF0000'>Нельзя поместить на склад</font>
 881
 {0} dismantled.\nItem received: {2}x {1}\nAethar received: {3}
 882
@@ -1614,13 +1614,13 @@ Search
 2110
 Suggested friends
 2111
-Friend request
+Запрос дружбы
 2112
 You can refresh suggested friends once every 10 min.
 2113
 Unblock
 2114
-Add
+Добавить
 2115
 Team Invitation
 2116
@@ -1636,9 +1636,9 @@ Block
 2121
 Cancel
 2122
-LV{0}
+УР{0}
 2123
-Channel {0}
+Канал {0}
 2124
 SoulWorker {0}\n sent you a friend request.\nDo you want to accept it?
 2125
@@ -3744,7 +3744,7 @@ By keyword
 16813
 By category
 16814
-Character
+Ник
 16815
 Level
 16816
@@ -3752,7 +3752,7 @@ Level
 16817
 Price
 16818
-LV
+УР
 16819
 Above
 16820
@@ -4364,45 +4364,45 @@ Lexicon Entry
 18814
 Member Radio
 19000
-<font color='#47C83E'>Attack +1%/Partial Damage +1%</font>
+<font color='#47C83E'>Атака +1%/Частичный урон +1%</font>
 19001
-<font color='#4374D9'>Attack +2%/Partial Damage +2%</font>
+<font color='#4374D9'>Атака +2%/Частичный урон +2%</font>
 19002
-<font color='#E0B94F'>Attack +3%/Partial Damage +3%</font>
+<font color='#E0B94F'>Атака +3%/Частичный урон +3%</font>
 19003
-<font color='#F15F5F'>Attack +4%/Partial Damage +4%/Armour Break +1%</font>
+<font color='#F15F5F'>Атака +4%/Частичный урон +4%/Пробивание брони +1%</font>
 19004
-<font color='#8041D9'>Attack +5%/Partial Damage +5%/Armour Break +2%</font>
+<font color='#8041D9'>Атака +5%/Частичный урон +5%/Пробивание брони +2%</font>
 19005
-<font color='#47C83E'>Defence +5%/HP +4%</font>
+<font color='#47C83E'>Защита +5%/HP +4%</font>
 19006
-<font color='#4374D9'>Defence +10%/HP +8%</font>
+<font color='#4374D9'>Защита +10%/ОЗ +8%</font>
 19007
-<font color='#E0B94F'>Defence +15%/HP +12%</font>
+<font color='#E0B94F'>Защита +15%/ОЗ +12%</font>
 19008
-<font color='#F15F5F'>Defence +20%/HP +16%</font>
+<font color='#F15F5F'>Защита +20%/ОЗ +16%</font>
 19009
-<font color='#8041D9'>Defence +25%/HP +20%</font>
+<font color='#8041D9'>Защита +25%/ОЗ +20%</font>
 19010
-<font color='#47C83E'>Evasion Rating 10/Crit Resistance 1%</font>
+<font color='#47C83E'>Уклонение 10/Сопр. к криту 1%</font>
 19011
-<font color='#4374D9'>Evasion Rating 20/Crit Resistance 2%</font>
+<font color='#4374D9'>Уклонение 20/Сопр. к криту 2%</font>
 19012
-<font color='#E0B94F'>Evasion Rating 30/Crit Resistance 3%</font>
+<font color='#E0B94F'>Уклонение 30/Сопр. к криту 3%</font>
 19013
-<font color='#F15F5F'>Evasion Rating 40/Crit Resistance 4%/Damage -4%</font>
+<font color='#F15F5F'>Уклонение 40/Сопр. к криту 4%/Урон -4%</font>
 19014
-<font color='#8041D9'>Evasion Rating 50/Crit Resistance 5%/Damage -5%</font>
+<font color='#8041D9'>Уклонение 50/Сопр. к криту 5%/Урон -5%</font>
 19015
-<font color='#47C83E'>Max. Stamina +5/Скорость атаки +1%</font>
+<font color='#47C83E'>Макс. выносл. +5/Скорость атаки +1%</font>
 19016
-<font color='#4374D9'>Max. Stamina +8/Скорость атаки +2%</font>
+<font color='#4374D9'>Макс. выносл. +8/Скорость атаки +2%</font>
 19017
-<font color='#E0B94F'>Max. Stamina +11/Скорость атаки +3%</font>
+<font color='#E0B94F'>Макс. выносл. +11/Скорость атаки +3%</font>
 19018
-<font color='#F15F5F'>Max. Stamina +14/Скорость атаки +4%/Move Speed +3%</font>
+<font color='#F15F5F'>Макс. выносл. +14/Скорость атаки +4%/Скорость перед. +3%</font>
 19019
-<font color='#8041D9'>Max. Stamina +17/Скорость атаки +5%/Move Speed +4%</font>
+<font color='#8041D9'>Макс. выносл. +17/Скорость атаки +5%/Скорость перед. +4%</font>
 19020
 <font color='#47C83E'>Точность +10/Крит. урон +600</font>
 19021
@@ -4444,25 +4444,25 @@ Member Radio
 19039
 <font color='#8041D9'>Super Armour Break: +16%</font>
 19040
-<font color='#47C83E'>Attack Speed +1%/Move Speed +1%</font>
+<font color='#47C83E'>Скорость атаки +1%/Move Speed +1%</font>
 19041
-<font color='#4374D9'>Attack Speed +2%/Move Speed +2%</font>
+<font color='#4374D9'>Скорость атаки +2%/Move Speed +2%</font>
 19042
-<font color='#E0B94F'>Attack Speed +3%/Move Speed +3%</font>
+<font color='#E0B94F'>Скорость атаки +3%/Move Speed +3%</font>
 19043
-<font color='#F15F5F'>Attack Speed +5%/Move Speed +4%</font>
+<font color='#F15F5F'>Скорость атаки +5%/Move Speed +4%</font>
 19044
-<font color='#8041D9'>Attack Speed +6%/Move Speed +6%</font>
+<font color='#8041D9'>Скорость атаки +6%/Move Speed +6%</font>
 19045
-<font color='#47C83E'>Crit Damage +700</font>
+<font color='#47C83E'>Крит урон +700</font>
 19046
-<font color='#4374D9'>Crit Damage +850</font>
+<font color='#4374D9'>Крит урон +850</font>
 19047
-<font color='#E0B94F'>Crit Damage +1000</font>
+<font color='#E0B94F'>Крит урон +1000</font>
 19048
-<font color='#F15F5F'>Crit Damage +1350</font>
+<font color='#F15F5F'>Крит урон +1350</font>
 19049
-<font color='#8041D9'>Crit Damage +1700</font>
+<font color='#8041D9'>Крит урон +1700</font>
 19400
 Default
 19401
@@ -8472,13 +8472,13 @@ Armour
 32068
 Fashion
 32069
-Crafting
+Изготовление
 32070
 Ranking
 32071
 Team
 32072
-Авто поиск группы
+Авто-поиск группы
 32073
 Look for Team
 32074
