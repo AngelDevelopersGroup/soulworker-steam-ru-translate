@@ -16,7 +16,7 @@ OK
 8
 Принять
 9
-Отмена
+Отказ
 10
 Внести
 11
@@ -328,7 +328,7 @@ SoulCash:
 344
 Использовать {0} для разблокировки ячеек?
 345
-Если вы продадите выбранные предметы, то получите {0}.
+Продать выбраное за {0}?
 346
 Все предметы, будут проданы, включая <font color='#A566FF'>уникальный предмет</font>. Вы получите {0}. Хотите продать предмет ?
 351
@@ -840,7 +840,7 @@ Received for rank: {0} XP
 702
 Склад
 703
-Upgrade
+Улучшение
 704
 Слияние
 705
@@ -894,7 +894,7 @@ Soulstones
 729
 Recycle
 730
-Enhancement
+Усиление
 731
 Rk.{0}
 732
@@ -1294,7 +1294,7 @@ BP required
 965
 The item may be destroyed, depending on the outcome of the upgrade.
 966
-Доступна после 4-го уровня улучшения.
+Доступно после 4-го уровня улучшения.
 967
 Улучшение
 968
@@ -1336,7 +1336,7 @@ The item is protected.
 986
 Получено
 987
-Выберите предмет для обмена.
+Выберите предмет
 988
 Обмен
 989
@@ -1672,7 +1672,7 @@ Invoice
 2208
 Expires in {0} days.
 2209
-Recipient
+Получатель
 2210
 Title
 2211
@@ -1786,11 +1786,11 @@ Do you want to delete all messages in the selected mailbox?\n(Unread messages an
 2284
 Preview
 2500
-Community
+Комьюнити
 2501
-Online
+Онлайн
 2502
-Offline
+Офлайн
 2503
 {0} days left
 2504
@@ -3934,7 +3934,7 @@ Quantity to list
 18043
 The items {0}, {1} and {2} will be put on display. Do you want to continue?
 18044
-{0} дней
+{0} д
 18045
 {0} ч
 18046
@@ -4058,7 +4058,7 @@ Purchase failed: not enough RP
 18193
 Улучшение на этом уровне не даёт никаких эффектов.
 18194
-Атрибуты
+Усиление
 18195
 Доступно
 18196
@@ -4934,7 +4934,7 @@ You don’t have enough dzenai for crafting.
 21105
 You don’t have enough dzenai for crafting.\nCrafted {0} lots.
 21400
-Перемещение
+Борт вертолёта
 21401
 Место прибытия: {0}\nВы хотите переместиться?\nСтоимость: {1} ДЗ
 21402
@@ -5122,7 +5122,7 @@ Highest
 22034
 Вращается
 22100
-Controls
+Управление
 22101
 Select controls
 22102
@@ -5130,13 +5130,13 @@ FIXED CAMERA MODE
 22103
 The character and camera are aligned. When the camera moves, the character moves as well.
 22104
-Evade 2x directional key
+Уворот 2x кнопкой движения
 22105
 FREE CAMERA MODE
 22106
 The camera and character are separated so the point of view can be changed as required.
 22107
-Orient attacks to camera
+Атака в направлении камеры
 22108
 Camera point of view
 22109
@@ -5146,25 +5146,25 @@ Character point of view
 22111
 Use sprint after evasion
 22112
-Other settings
+Остальное
 22113
-Invert mouse
+Инвертировать оси мышки
 22200
-Game
+Игра
 22201
 Display info
 22202
-Character name
+Ник игрока
 22203
-Guild name
+Название гильдии
 22204
-Title
+Титул
 22205
-Enemy name
+Имя врага
 22206
-Enemy HP
+ОЗ врага
 22207
-NPC name
+Имя НПС
 22208
 Speech bubbles
 22209
@@ -5684,7 +5684,7 @@ SoulWeapon
 24257
 Auxiliary Weapon
 24258
-Helmet
+Шлем
 24259
 Наплечник
 24260
@@ -5780,7 +5780,7 @@ Fabric
 24305
 Overclock
 24306
-Upgrade
+Улучшение
 24307
 Ally Gear 1
 24308
@@ -6022,7 +6022,7 @@ Acrylic
 24592
 Overclock
 24593
-Upgrade
+Улучшение
 24594
 Ally Gear 1
 24595
@@ -7418,11 +7418,11 @@ You cannot apply right now because there are too many applications pending.
 28103
 Guild membership application exceeded
 28104
-{0} дней назад
+{0} дн. нз
 28105
-{0} час. назад
+{0} ч. нз
 28106
-{0} мин. назад
+{0} м. нз
 28107
 You joined the {0} Guild.
 28108
@@ -7604,7 +7604,7 @@ Novice
 28196
 Guild details
 28197
-Последний вход
+Активность
 28198
 Должность
 28199
@@ -8148,7 +8148,7 @@ Team applicant
 31084
 Пригл.
 31085
-Профиль
+Проф.
 31086
 Заявка
 31087
@@ -8466,7 +8466,7 @@ Quickview
 32065
 Durability
 32066
-Upgrade
+Улучшение
 32067
 Armour
 32068
@@ -12152,9 +12152,9 @@ Full-screen mode is not supported in this resolution.
 49605
 This resolution is not supported.
 49606
-Не использовать
-49607
 Использовать
+49607
+Не использовать
 49608
 Группа
 49609
@@ -12178,7 +12178,7 @@ District does not exist.
 49618
 Area is invalid or does not exist.
 49619
-Please select target zone
+Выберите место прибытия
 49620
 Contains restricted words or characters.
 49621
