@@ -682,7 +682,7 @@ The rented Akasha will be inserted into exclusive slots automatically.
 571
 Do you want to use the item ‘{0}’?\nYou can’t sell or trade Akasha skills you received through items.
 572
-Минимальный ур.
+Мин. уровень
 573
 Очков умения
 574
@@ -934,7 +934,7 @@ Single player
 749
 Recommended for teams
 750
-Минимальный ур.
+Мин. уровень
 751
 Equipped items
 752
@@ -1050,7 +1050,7 @@ Brooch info
 808
 Used area
 809
-No brooches equipped
+Не вставлена
 811
 Гнёзда предмета
 812
@@ -2082,7 +2082,7 @@ Stamina
 5008
 Следующий уровень:
 5009
-Мин уровень:
+Мин. уровень:
 5010
 Очков умения:
 5011
@@ -3050,13 +3050,13 @@ Grace City: Safe Short-cut
 9984
 Ruin Fortress: Safe Short-cut
 9985
-[Steel Graves] Candus City
+[Steel Graves] Кандус Сити
 9986
-[Steel Graves] Grace City
+[Steel Graves] Грейс Сити
 9987
-[Steel Graves] Ruin Fortress
+[Steel Graves] Руин Фортресс
 9988
-Врата Золотой Цитадели
+Врата Цитадели
 9989
 Золотая Цитадель
 9990
@@ -3776,7 +3776,7 @@ OK
 16829
 Cancel
 16830
-Trade goods
+Выставлено
 16831
 Duration
 16832
@@ -4032,9 +4032,9 @@ SF Amplifier/Soulstone
 18180
 {0} brooch socket received
 18181
-Info on equipped brooches
+Надетые броши
 18182
-More brooch sockets possible
+Слот закрыт
 18183
 Эффекты улучшения
 18184
@@ -7630,7 +7630,7 @@ As a guild disbandment penalty, it won’t be possible to form a new guild for {
 28209
 Нужно разрешение, чтобы писать здесь.
 28210
-Сообщение
+Объявление
 28211
 Написать
 28212
@@ -8168,7 +8168,7 @@ Decline
 31094
 Ник
 31095
-Ур.
+Ур
 31096
 Герой
 31097
