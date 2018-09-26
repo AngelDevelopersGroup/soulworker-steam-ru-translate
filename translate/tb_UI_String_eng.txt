@@ -1672,11 +1672,11 @@ Invoice
 2208
 Expires in {0} days.
 2209
-Получатель
+Адресат
 2210
-Title
+Заголовок
 2211
-Влож.: DZ
+Влож.: ДЗ
 2212
 Стоимость
 2213
@@ -2082,7 +2082,7 @@ Stamina
 5008
 Следующий уровень:
 5009
-Минимальный ур.:
+Мин уровень:
 5010
 Очков умения:
 5011
@@ -7424,9 +7424,9 @@ Guild membership application exceeded
 28106
 {0} м. нз
 28107
-You joined the {0} Guild.
+Вы присоединились к гильдии {0}.
 28108
-{0} joined the {1} Guild.
+{0} присоединился к гильдии {1}.
 28109
 When leaving the guild, all referenced information about the guild will be reset. You will not be able to join a guild for 1 day.\nDo you want to leave anyway?
 28110
@@ -7480,7 +7480,7 @@ Selection completed
 28134
 Guild Emblem
 28135
-Level
+Уровень
 28136
 Лидер
 28137
@@ -7520,11 +7520,11 @@ Privacy settings
 28154
 Rights
 28155
-Vice Master
+Заместитель
 28156
-Administrator
+Управляющий
 28157
-Elder
+Старейшина
 28158
 Transfer Position
 28159
@@ -7560,17 +7560,17 @@ Apply to join
 28174
 Guild name
 28175
-Master
+Лидер
 28176
-Search
+Поиск
 28177
 Заявки
 28178
 Submit application
 28179
-Yes
+Да
 28180
-No
+Нет
 28181
 Remove
 28182
@@ -7582,7 +7582,7 @@ The guild name has not been entered. Please enter the guild name.
 28185
 Guild forming fee
 28186
-100,000 DZ
+100,000 ДЗ
 28187
 Склад гильдии
 28188
