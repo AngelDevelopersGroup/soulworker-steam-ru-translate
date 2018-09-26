@@ -1,18 +1,18 @@
 167
 100101
-А, почему я хочу стать врачом?
+Ah! Why did I want to become a doctor?
 100102
-Потому что хочу помогать людям, очевидно же! Хе-хе.
+Because I wanted to help people, obviously! Hehe!
 100103
-Мама! Мама! Я сделала это! Я даже получила высший балл!
+Mummy! Mummy! I did it! I even got top marks!
 100104
-Внимание! Внимание! Всем жителям немедленно вернуться в убежище!
+Warning! Warning! Return immediately to the bunker!
 100105
-Повторяю! Всем жителям немедленно вернуться в убежище!
+I repeat! Return immediately to the bunker!
 100106
-Ах, мама... пожалуйста, прошу тебя, держись! Я вытащу тебя.
+Oh, mummy... please hold on! I’ll get you out of there.
 100107
-Мы справимся, мамочка... нет! Пожалуйста! НЕЕЕТ!!!
+We’ll make it, mummy... no! Please! NOOO!!!
 100201
 How on earth do you win the big developers’ prize at the age of just 18?
 100202
@@ -20,13 +20,13 @@ That must’ve happened while I wasn’t paying attention. I can catch big fish 
 100203
 This amazing game, written by a regular high-school student, has occupied the top spot for 20 weeks!
 100204
-Included in the list of the 100 most influential people on the planet, he has refused every interview to this very day.
+One of the 100 most influential people on the planet, he refused every interview till this very day.
 100205
 Oh man. Oh god, this world is such a bore.
 100206
-Virtually every city of city worthy of mention was befallen by the Great Void and destroyed. The list of casualties and missing people is virtually endless.
+The Great Void... grand cities destroyed... millions killed or missing...
 100207
-Great Void! Now that sounds interesting. We should take a closer look at that.
+Great Void... well that is something new. We should take a closer look at that.
 100208
 How dreadfully... exciting! What are you exactly? Tell me!
 100209
@@ -42,7 +42,7 @@ But I have something else I need to tell you! I went shopping today and...
 100304
 Err, what’s going on?
 100305
-How come it’s so loud at night?
+How come it’s so loud in the middle of the night?
 100306
 Ah, huh?! Aaaaah! No!
 100307
@@ -50,13 +50,13 @@ Hey! Who are you?!
 100308
 Spit him out! Give me back my brother! Argh!
 100309
-*screaming* Aaaahhh!
+*sob* Aaaaah!
 100310
 Ha... ha... Hahaha! Ahahahaha!
 100401
 Three months have passed since the Great Void appeared.
 100402
-Virtually every city of city worthy of mention was befallen by the Great Void and destroyed. The list of casualties and missing people is virtually endless.
+The Great Void... grand cities destroyed... millions killed or missing...
 100403
 Are we really safe here?
 100404
@@ -132,25 +132,25 @@ Why did you make them all disappear?!
 100618
 You evil scoundrel!
 101001
-Ты проснешься в другом мире.
+You’ll wake up in another world.
 101002
-Привычная жизнь изменится.
+There’s no place for normality in this world any more.
 101003
-У тебя есть сила, способная всё изменить.
+You have the power to change this world.
 101004
-Предай суду тех, кто перешел на сторону зла и угрожает этому миру.
+Denounce those who threaten this world!
 201001
-Быстрее! За тобой увязался Мальвиль.
+Hurry! You’re being pursued by a Malevil.
 201101
-Ты — это я, Я — это ты...
+You are me and I am you...
 201102
-Я дала обет защищать тебя!
+I swore an oath to protect you!
 201103
-Помни это. Ты — это я, Я — это ты.
+Remember that. You are me and I am you.
 201104
-Пообещай мне кое что. Обещай найти меня.
+Promise me one thing. Promise that you will find me.
 201201
-Мы едины, и в то же время разделены. Нас двое, но мы одно целое.
+We are one, and yet we are two. We are two, though still we are one.
 201202
 I swore an oath to protect you!
 201203
@@ -190,9 +190,9 @@ Never forget that. You and I belong together.
 201604
 I’m begging you. You have to find me.
 201002
-Какого чёрта..!
+What on earth...!
 201003
-Эй! Очнись!
+Hey quit moping, pull yourself together!
 202001
 What are you doing?
 202002

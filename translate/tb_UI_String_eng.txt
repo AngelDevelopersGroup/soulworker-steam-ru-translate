@@ -974,7 +974,7 @@ Duration:
 770
 мин
 771
-час
+Время
 772
 дней
 773
@@ -3788,7 +3788,7 @@ Sold recently
 16835
 Status
 16836
-Time
+Дата/Время
 16837
 Withdraw
 16838
@@ -7468,7 +7468,7 @@ Select guild successor
 28128
 Ник
 28129
-Уровень
+Ур
 28130
 Герой
 28131
@@ -7548,7 +7548,7 @@ Daily withdrawal limit
 28168
 Save
 28169
-Time
+Дата/Время
 28170
 Write
 28171
@@ -7564,7 +7564,7 @@ Master
 28176
 Search
 28177
-Applicants
+Заявки
 28178
 Submit application
 28179
@@ -7630,11 +7630,11 @@ As a guild disbandment penalty, it won’t be possible to form a new guild for {
 28209
 Нужно разрешение, чтобы писать здесь.
 28210
-Message
+Сообщение
 28211
-Write
+Написать
 28212
-You can write the guild search here.
+Сообщение, отображаемое в поиске гильдий.
 28213
 You can’t write again for another {0} min.
 28214
@@ -7656,21 +7656,21 @@ Guild XP (GXP)
 28222
 Prize through energy consumption from Guild Players\nDaily winnings per Guild Player: Max. 200\nDaily GXP winnings: {0}
 28223
-Level
+Уровень
 28224
 {0}%
 28225
 1% of the dzenai reward of every Guild Player collected when completing a district.
 28226
-Info
+Собрано
 28227
 События
 28228
 Дата/Время
 28229
-Received {0} GXP.
+Получено {0} ГОО.
 28230
-Guild Skill {0} learned at LV{1}.
+Guild Skill {0} learned at УР{1}.
 28231
 Guild Emblem
 28232
@@ -11674,7 +11674,7 @@ Failed in Steel Graves
 46303
 You failed at chapter {0} in Steel Graves.
 46304
-Time
+Дата/Время
 47000
 Mount
 47001
@@ -13836,7 +13836,7 @@ LV
 60113
 Character name
 60114
-Time
+Дата/Время
 60115
 Points
 60116

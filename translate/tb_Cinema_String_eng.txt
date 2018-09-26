@@ -1107,7 +1107,7 @@ If... if only I had...
 0
 0
 10233
-Хех? Оооох... Ооооооох?\nГ-где я?
+Heh? Ooooh... Oooooooh?\nWh...where are we?
 Eh? What’s this...?\nA giant set?
 ...\nHm...
 Where am I?\nWhere’s everyone else?
@@ -1116,7 +1116,7 @@ Where... am I? Why is everything falling apart?
 0
 0
 10234
-Эй! Агоу!\nЗдесь кто-нибудь есть? Ответьте! Кто-нибудь! Кто угодно!
+Huh! Huh!\nAnybody here? Answer me, somebody, anybody!
 It’s way too big for a set.\nAnd what’s up with the sky?
 Hmmmm...
 Why am I here?\nI was just sorting out goods for delivery.
@@ -1125,7 +1125,7 @@ Have I landed in another dimension?\nThis can’t be...
 0
 0
 10235
-Что это?\nЧто здесь произошло?
+What’s that supposed to mean? What’s going on?
 Hello? Anybody here? Answer me if you can hear me!
 Hm... I just don’t know.\nWhere am I?
 I should take a closer look around here.
@@ -1134,7 +1134,7 @@ Nobody will find me in this chaos. I need to look around.
 0
 0
 10236
-Ааа! Призрак!
+Argh! A ghost!
 Wha...what are you? Where are you from?
 Who are you?\nYou don’t seem to be human.
 Oh, a person!\nAre you really a person?
@@ -1143,7 +1143,7 @@ Hm? What’s that?\nIt came out of nowhere.
 0
 0
 10237
-Хочешь, чтобы я пошла в ту сторону?\nТы ведь не собираешься съесть меня?
+You want me to go that way?\nYou’re not going to eat me, are you?
 This is where people always die in horror films.\nShall I go anyway?
 Why should I trus...?\nI guess I don’t have a choice. Fine, I’ll go.
 Should I go?
@@ -1152,7 +1152,7 @@ Haha! Why so shy?\nI’m coming! Wait for me!
 0
 0
 10238
-Ладно. У меня всё равно нет выбора.\nГде-то я уже видела этого ребёнка.
+Right. I don’t have a choice.\nI’ve seen that child somewhere before.
 What a pesky child.\nYet... it seems familiar.
 A spoiled brat.\nBut... maybe we know each other?
 O... okay\nDo we know each other?
@@ -1161,7 +1161,7 @@ All right! No need to be so polite.
 0
 0
 10239
-Хочешь, чтобы я перелезла на ту сторону?\nПолучится ли..?
+You want me to come over?\nIs it even possible...?
 Yeah, yeah. I’m trying.
 You have some high expectations.
 It isn’t difficult!
@@ -1170,7 +1170,7 @@ Here?\nWhere are you taking me?
 0
 0
 10240
-А? Что-что?\nК чему я должна быть готова?
+Heh? What’s next?\nWhat do I have to get ready for?
 Something is happening.\nI’m ready!
 What do you mean, it’s starting?\nWhat’s going on?
 Do other people come here too?\nHaha. Thank you for showing me the way!
@@ -1179,7 +1179,7 @@ What do I have to get ready for? There’s nothing here.
 0
 0
 10242
-А? Там есть кто-то?\nЯ слышу голос!
+Heh? Is anybody there?\nI can hear a voice!
 Is anybody else here?\nOut of my way! Man, I sure missed people!
 I sure am popular today!
 Is someone there?\nIt’s dangerous! I’ll save you!
@@ -1188,7 +1188,7 @@ What now?
 0
 0
 10243
-Где... где я?
+Where... am I?
 That ceiling’s new to me.
 What is it now?
 Is that... a hospital?
@@ -2338,7 +2338,7 @@ Damage: +70%! I knew it! The measurements were correct!
 0
 0
 0
-Испытание завершено! Я отправлю результаты в центр управления.
+Test completed! I will submit the results to the control unit.
 30011
 0
 0
@@ -2347,7 +2347,7 @@ Damage: +70%! I knew it! The measurements were correct!
 0
 0
 0
-Все имеющиеся данные проанализированы... Это. Просто. Нечто! Как ты смогла получить такие результаты?
+All the data have been confirmed... This is unbelievable! How can you achieve results like this?
 30012
 0
 0
@@ -3526,7 +3526,7 @@ Signature of code name Baalride detected!
 0
 0
 0
-Прямо сейчас. Готовься!
+Right over there. Get ready.
 30148
 0
 0
@@ -3535,7 +3535,7 @@ Signature of code name Baalride detected!
 0
 0
 0
-Они здесь!
+He’s coming!
 30149
 0
 0
@@ -10024,7 +10024,7 @@ It’s this mad world.
 0
 0
 0
-Это дитя... появилось из Великой Пустоты...
+This child... fell from the Great Void...
 60146
 0
 0
@@ -10033,7 +10033,7 @@ It’s this mad world.
 0
 0
 0
-Подробности потом.\nЗалезай! Мы должны убраться отсюда как можно скорей!
+I’ll tell you more about it later.\nGet in! We have to get out of here!
 60147
 0
 0
@@ -10177,7 +10177,7 @@ Hehe. Thanks.
 0
 0
 0
-Смотри сюда.\nЭто зал испытаний Лиги Сияющего Леса: Стил Грейвс.
+Let me show you around.\nThis is the Starry Forest League’s combat lab: Steel Graves.
 60163
 0
 0
@@ -10186,59 +10186,59 @@ Hehe. Thanks.
 0
 0
 0
-Сейчас тебе нужно будет кое-что сделать.\nДавай я тебе расскажу.
+There’s something you need to do now.\nCome and listen.
 60164
-Сюда.
-Эй! Сюда.
-Я тут.
-Сюда.
-Иди сюда.
-Эй, сюда!
+Over here.
+Hey! Over here.
+Come here.
+This way.
+Come here.
+Hey, here.
 0
 0
 60165
-Двигай сюда.
-Что ты там делаешь? Я сказала идти сюда!
-Эй, сюда!
-Поторапливайся.
-Живее сюда!
-Ух, ты можешь подойти?
+Come here.
+What are you doing? I said, come here!
+Hey, here!
+Hurry up.
+Come here!
+Uh, can you come over here?
 0
 0
 60166
-Сюда.
-Сюда. Иди сюда.
-Двигайся.
-Сюда.
-Это дорогой... иди здесь.
-Дальше сюда.
+Over here.
+Here. Come here.
+Move it.
+Come here.
+This way... come on.
+This way next.
 0
 0
 60167
-Залезай.
-Ну же, прыгай!
-Проходи здесь, быстрее.
-В эту сторону.
-Всё, что тебе нужно сделать — это пройти здесь.
-Тебе нужно пройти здесь.
+Come over here.
+Go on, jump!
+Come over here, quick.
+Come over here.
+All you have to do is come over here.
+You have to go across here.
 0
 0
 60168
-Ты почти на месте. Поспеши!
-Живее, живее! Почти на месте.
-Что ты едва ноги волочишь?
-Уже близко. Спеши.
+You’re almost there. Hurry!
+Quick, quick! You’re almost there.
+Are you even capable of not dragging your feet?
+It’s not much further. Quick.
 Exactly. Get your head out of the clouds! Come here!
-Не далеко. Совсем не далеко.
+Just a little bit further. Just a little bit.
 0
 0
 60169
-Они приближаются. Сейчас начнется. Приготовься!
-Итак, приготовься!
-Скоро начнется, приготовься!
-Приготовься, сейчас начнется!
-Немного разнообразия. Приготовься!
-Сейчас, приготовься!
+They are coming. It’s starting. Go on, get ready.
+Go on, get ready.
+It’s starting in a minute, get ready.
+Get ready. It is starting soon.
+Something different for a change. Go on, get ready.
+Right, get ready.
 0
 0
 60171
@@ -10393,7 +10393,7 @@ You are both stubborn and pig-headed. Kudos to you!\nBut... I don’t want to se
 0
 0
 0
-Быстрей! Сюда!
+Quick! This way!
 60188
 0
 0
@@ -10402,7 +10402,7 @@ You are both stubborn and pig-headed. Kudos to you!\nBut... I don’t want to se
 0
 0
 0
-Следуй за мной.
+Follow me.
 60189
 0
 0
@@ -17197,7 +17197,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-Сюда.
+Over here.
 40968
 0
 0
@@ -17206,7 +17206,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-Хей! Сюда.
+Hey! Over here.
 40969
 0
 0
@@ -17215,7 +17215,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-Давай же.
+C’mon already.
 40970
 0
 0
@@ -17224,7 +17224,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-Сюда.
+Come here.
 40971
 0
 0
@@ -17233,7 +17233,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-Этой дорогой.
+This way.
 40972
 0
 0
@@ -17242,7 +17242,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-ЭЙ, сюда.
+Hey, here.
 40973
 0
 0
@@ -17251,7 +17251,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-Сюда.
+Come here.
 40974
 0
 0
@@ -17260,7 +17260,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-Чего мешкаешь? Я же сказала, сюда!
+What are you doing? I said, come here!
 40975
 0
 0
@@ -17269,7 +17269,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-Эй, сюда!
+Hey, here!
 40976
 0
 0
@@ -17278,7 +17278,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-Иди сюда!
+Come here!
 40977
 0
 0
@@ -17287,7 +17287,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-Поторапливайся.
+Hurry up.
 40978
 0
 0
@@ -17296,7 +17296,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-М-м, можешь сюда подойти?
+Uh, can you come over here?
 40979
 0
 0
@@ -17305,7 +17305,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-Сюда.
+Over here.
 40980
 0
 0
@@ -17314,7 +17314,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-Сюда. Иди сюда.
+Here. Come here.
 40981
 0
 0
@@ -17323,7 +17323,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-Иди.
+Move it.
 40982
 0
 0
@@ -17332,7 +17332,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-Этой дорогой... пошли.
+This way... come on.
 40983
 0
 0
@@ -17341,7 +17341,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-Иди сюда.
+Come here.
 40984
 0
 0
@@ -17350,7 +17350,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-Дальше сюда.
+This way next.
 40985
 0
 0
@@ -17359,7 +17359,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-Нужно пройти здесь.
+Come over here.
 40986
 0
 0
@@ -17368,7 +17368,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-Давай, прыгай!
+Go on, jump!
 40987
 0
 0
@@ -17377,7 +17377,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-Давай сюда, скорее.
+Come over here, quick.
 40988
 0
 0
@@ -17386,7 +17386,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-Всё, что тебе нужно сделать — это пройти здесь.
+All you have to do is come over here.
 40989
 0
 0
@@ -17395,7 +17395,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-Иди сюда.
+Come over here.
 40990
 0
 0
@@ -17404,7 +17404,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-Нужно пробраться здесь.
+You have to go across here.
 40991
 0
 0
@@ -17413,7 +17413,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-Ты уже близко. Скорее!
+You’re almost there. Hurry!
 40992
 0
 0
@@ -17422,7 +17422,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-Живее, живее! Ты почти на месте.
+Quick, quick! You’re almost there.
 40993
 0
 0
@@ -17431,7 +17431,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-Что ты едва ноги волочишь?
+Are you even capable of not dragging your feet?
 40994
 0
 0
@@ -17440,7 +17440,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-Хватит витать в облаках! Живо сюда!
+Exactly. Get your head out of the clouds! Come here!
 40995
 0
 0
@@ -17449,7 +17449,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-Уже близко. Спеши.
+It’s not much further. Quick.
 40996
 0
 0
@@ -17458,7 +17458,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-Не далеко. Совсем не далеко.
+Just a little bit further. Just a little bit.
 40997
 0
 0
@@ -17467,7 +17467,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-Они приближаются. Сейчас начнется. Приготовься!
+They are coming. It’s starting. Go on, get ready.
 40998
 0
 0
@@ -17476,7 +17476,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-Итак, приготовься!
+Go on, get ready.
 40999
 0
 0
@@ -17485,7 +17485,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-Скоро начнется, приготовься!
+It’s starting in a minute, get ready.
 41000
 0
 0
@@ -17494,7 +17494,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-Немного разнообразия. Приготовься!
+Something different for a change. Go on, get ready.
 41001
 0
 0
@@ -17503,7 +17503,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-Готовься. Сейчас начнется.
+Get ready. It is starting soon.
 41002
 0
 0
@@ -17512,7 +17512,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-Всё, приготовься.
+Right, get ready.
 41003
 0
 0
@@ -17521,7 +17521,7 @@ Only those who are quick to adapt survive in this world.
 0
 0
 0
-Сила, противостоять этим существам...\nОна никогда не покинет тебя.
+You need this force to protect yourself against the creatures from the other world...\nIt will flow through you always.
 41004
 0
 0
@@ -17575,7 +17575,7 @@ This power... It will lead you to your destiny.\nChannel your unbridled rage thr
 0
 0
 0
-Сражайся.\nРазорви цепи окутавшие душу.\nВысвободи всю свою ненависть.
+C’mon fight. Find a home for your revenge.
 41010
 0
 0
@@ -17584,7 +17584,7 @@ This power... It will lead you to your destiny.\nChannel your unbridled rage thr
 0
 0
 0
-Расслабься и наслаждайся.
+All you need to do now is have fun.
 41011
 0
 0
@@ -17602,7 +17602,7 @@ Crush them all. Set the beast within you lose.
 0
 0
 0
-Даже если это расстроит тебя... Нужно победить их.
+Even if it makes you sad... You must defeat it.
 41013
 0
 0
@@ -17620,7 +17620,7 @@ May this fierce force kindle your passion!
 0
 0
 0
-Откройся!\nВыпусти всю свою ярость! Сокруши всех!
+Get as angry as you like.\nFeel the rage building within. Smash everything!
 41015
 0
 0
@@ -18315,7 +18315,7 @@ Yes. I’ve heard of it.\nThe biggest city in west Cloudream.
 0
 0
 10241
-Это монстры?\nЧто? Меч? Откуда у меня этот меч?\nЧто происходит?
+Where did I get this sword?\nWhat’s going on?
 Ah, I’m beginning to understand.\nYou want me to fight that?
 These monsters plus this Mist Scythe.\nI don’t know the reason, but I’ll play along.
 Wha-what is that? I’m supposed to fight with that?!
