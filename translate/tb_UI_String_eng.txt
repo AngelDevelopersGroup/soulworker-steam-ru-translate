@@ -2196,19 +2196,19 @@ Cancel build
 5404
 Class info
 5405
-Характеристики
+Характеристика
 5406
 Сложность
 5407
-Описание
+История
 5408
-Character clips
+В действии
 5409
-Social
+Эмоции
 5410
-Combat
+Удары
 5411
-Skill
+Умения
 5440
 Fight with the Soulum.\nOffers lots of security in an easy-to-master style.
 5441
