@@ -2186,21 +2186,21 @@ Ladi
 5339
 Bibeler
 5400
-Select character
+Выбор персонажа
 5401
-Next
+Дальше
 5402
-Previous
+Назад
 5403
 Cancel build
 5404
 Class info
 5405
-Profile
+Характеристики
 5406
-Controls
+Сложность
 5407
-Description
+Описание
 5408
 Character clips
 5409
@@ -2254,41 +2254,41 @@ Time for Character Reorganisation
 5500
 Preview
 5501
-Fashion preview
+Пример одежды
 5502
-Weapon preview
+Пример оружия
 5503
-Voice preview
+Выберите голос
 5504
-Listen
+Послушать
 5505
-Action preview
+Пример действия
 5506
-Preview
+Показать
 5507
 Choose appearance
 5508
-Hairstyle and colour
+Прическа и цвет волос
 5509
 Цвет глаз
 5510
-Complexion
+Цвет кожи
 5511
-Select standard outfit
+Стандартная одежда
 5512
 Underwear
 5513
-Complete
+Начать
 5514
-Previous
+Назад
 5515
-Character name
+Имя персонажа
 5516
-Enter between 2-12 characters
+Введите от 2 до 12 букв
 5517
-Reset
+Сброс
 5518
-Random
+Случайно
 5519
 Внешность
 5800
