@@ -490,7 +490,7 @@ SoulCash
 449
 The additive is registered automatically.
 450
-Есть материалы
+Можно изготовить
 456
 Снижение прочности предмета уменьшает его характеристики на {0}%.
 457
@@ -970,9 +970,9 @@ Cooldown:
 768
 Duration:
 769
-сек
+с
 770
-мин
+м
 771
 Время
 772
@@ -1776,9 +1776,9 @@ You cannot return system messages.
 2279
 Получить всё
 2280
-Would you like to retrieve all item and dzenai attachments in the HEMS Inbox?\n(If you don’t have enough room in your inventory, you cannot retrieve everything.)
+Вы хотите получить все вложения?\n(Вы сможете забрать ровно столько, сколько есть свободного места в инвентаре.)
 2281
-Would you like to retrieve all item and dzenai attachments from the system mail?\n(If you don’t have enough room in your inventory, you cannot retrieve everything.)
+Вы хотите получить все вложения?\n(Вы сможете забрать ровно столько, сколько есть свободного места в инвентаре.)
 2282
 Do you want to delete all messages in the selected mailbox?\n(Unread messages and those with attachments will not be deleted.)
 2283
@@ -4098,7 +4098,7 @@ Item {0} not available for removing brooches.
 18213
 Качество
 18214
-При попытке улучшения качество так же может понизиться.
+Качество так же может опуститься ниже текущего.
 18215
 This item will not be destroyed.
 18300
@@ -11674,7 +11674,7 @@ Failed in Steel Graves
 46303
 You failed at chapter {0} in Steel Graves.
 46304
-Дата/Время
+Время
 47000
 Mount
 47001
@@ -11824,55 +11824,55 @@ Monsters contaminated by Fragment▲ appear.\nBeat them with Solace+ attack dama
 48416
 Enemies infected by Fragments of Virtue, Sin, Grace, Hate, Torment appear.\nUse potions.
 48420
-Growth
+Улучшение
 48421
-Extract Fragment
+Извлечение
 48422
-Swap Fragment
+Обмен
 48423
 Стоимость ДЗ
 48424
-Fragment List
+Фразменты
 48425
-Swap Fragment
+Обмен
 48426
-Consumes
+Затраты
 48427
 Quantity
 48428
-Max.
+Макс.
 48429
-Exchange
+Преобразовать
 48430
 Select an item to exchange.
 48431
-The item must be exchangeable.
+Выберите предмет для обмена.
 48432
-Select the number of items to exchange.
+Введите количество для получения.
 48433
-Do you want to exchange {0} lots for {1} lots?
+Преобразовать {0} в {1}?
 48440
-Growth Ingredient
+Материалы для усиления
 48441
-Growth
+Усилить
 48442
-Please enter an item.
+Вставьте или выберите предмет.
 48443
-Insufficient growth ingredients.
+Недостаточно материалов для усиления.
 48444
-Insufficient dzenai.
+Недостаточно дзенаев.
 48445
 No further growth possible.
 48446
-Extract Fragment
+Будет получено
 48447
-Quality Solvent
+Качественный растворитель
 48448
 For easier extraction or a small chance of a slumbering Soulstone
 48449
-Use Quality Solvent
+Использовать растворитель
 48450
-Extract Fragment
+Извлечь
 48451
 Fragments will be extracted from {0}.\nThe Soulstone disintegrates and you receive a certain number of fragments.\nDo you want to continue with the extraction?\nEffect of High-quality Solvent\n<font color='#FFFF00'>- The High-quality Solvent provides for better extraction results.</font>\n<font color='#FFFF00'>- You have a small chance of receiving a Slumbering Soulstone.</font>
 48452

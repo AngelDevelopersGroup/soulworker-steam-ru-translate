@@ -34,9 +34,9 @@ Fashion (Premium)
 52
 Броня
 53
-Fashion
+Одежда
 54
-SF Amplifiers
+Усилители СД
 55
 Pets
 71
@@ -48,7 +48,7 @@ Jewellery
 74
 Расходники
 75
-Akasha
+Акаша
 76
 Прочее
 99
@@ -98,9 +98,9 @@ Mouth
 215
 Hands
 216
-Underwear
+Ниж. бельё
 217
-Outfit
+Наряд
 218
 Back
 219
@@ -144,21 +144,21 @@ Mouth
 535
 Hands
 536
-Underwear
+Ниж. бельё
 537
-Outfit
+Наряд
 538
 Back
 539
-Legs
+Низ
 540
 Feet
 541
-SF Amplifiers
+Усилители СД
 551
 Pets
 601
-Akasha
+Акаша
 711
 All
 721
@@ -178,11 +178,11 @@ All
 1001
 Event
 1002
-Parcel
+Пакет
 1003
 Fashion (Appearance)
 1004
-Fashion
+Одежда
 1005
 Interior Furniture
 1006
@@ -192,7 +192,7 @@ All
 1201
 Special
 1202
-Fashion
+Одежда
 1203
 My Home
 1204
@@ -206,19 +206,19 @@ Eye Colour
 1304
 Complexion
 1401
-Top
+Верх
 1402
-Legs
+Низ
 1403
 Hat
 1404
 Hands
 1405
-Shoes
+Обувь
 1406
 Look
 1407
-Underwear
+Ниж. бельё
 1408
 Оружие Души
 1501
@@ -300,7 +300,7 @@ Glass
 3106
 Rubber
 3200
-Blueprint
+Чертёж
 3201
 All
 3202
@@ -338,7 +338,7 @@ Complexion
 764
 Tattoo
 765
-Underwear
+Ниж. бельё
 771
 All
 800
@@ -392,7 +392,7 @@ Eyes
 4153
 Mouth
 4154
-Outfit
+Наряд
 4155
 Hands
 4156
@@ -416,17 +416,17 @@ Earrings
 4213
 Ring
 4301
-Haru
+Хару
 4302
-Erwin
+Эрвин
 4303
-Lilly
+Лили
 4304
-Jin
+Чжин
 4305
-Stella
+Стелла
 4306
-Iris
+Ирис
 4400
 Ally Gear
 4401
@@ -470,41 +470,41 @@ Fragment¥
 5001
 Ticket
 5003
-Fashion
+Одежда
 5004
-Akasha
+Акаша
 5005
 Ambulance
 5100
-EP Regen
+Энергия
 5101
 Functional
 5102
-Akasha
+Акаша
 5103
-Brooch
+Броши
 5104
-Underwear
+Ниж. бельё
 5105
-Blueprint
+Чертёж
 5106
 Random Box
 5107
-Top
+Верх
 5108
-Legs
+Низ
 5109
-Shoes
+Обувь
 5110
 Components
 5111
-Capsule
+Капсула
 6000
 Status
 6001
 Decoder
 6002
-Stamina
+Выносливость
 6003
 Components
 3998
@@ -514,15 +514,15 @@ Components
 4601
 Одежда
 4602
-Akasha
+Акаша
 4603
-Brooch
+Броши
 4604
 Functional
 5201
 Start
 5202
-Parcel
+Пакет
 5203
 Одежда
 5204
@@ -536,19 +536,19 @@ Event
 5303
 Одежда
 5304
-Brooch
+Броши
 5305
-Akasha
+Акаша
 5306
-Outfit
+Наряд
 5307
-Top
+Верх
 5308
-Legs
+Низ
 5309
 Hands
 5310
-Shoes
+Обувь
 5311
 Socks
 5312
@@ -568,9 +568,9 @@ Complexion
 5319
 Functional
 5320
-Brooch
+Броши
 5321
-Akasha
+Акаша
 5322
 Battle Support
 7000
