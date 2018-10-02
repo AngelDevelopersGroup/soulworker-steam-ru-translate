@@ -1576,9 +1576,9 @@ Available restorations
 1410
 Уничтожить предмет
 1450
-{0} has successfully upgraded {1} to +{2}.
+{0} успешно улучшил {1} до +{2}.
 1451
-{0} failed to upgrade {1} to +{2} and it has been destroyed.
+{0} сломал {1} пытаясь улучшить до +{2}.
 1452
 {0} has added {1}.
 1453
@@ -1630,11 +1630,11 @@ Whisper
 2118
 Удалить
 2119
-Добавить
+ЧС
 2120
-Block
+Добавить
 2121
-Убрать
+Отмена
 2122
 УР{0}
 2123
@@ -3082,7 +3082,7 @@ Contaminated Golden Citadel
 10013
 [BETA] Dimension Trip
 10014
-Rift Arena
+Арена
 10021
 -
 10022
@@ -8478,7 +8478,7 @@ Ranking
 32071
 Team
 32072
-Авто-поиск (Группа)
+Поиск (Группа)
 32073
 Look for Team
 32074
@@ -12076,15 +12076,15 @@ There are still daily quests that you haven’t accepted.
 49340
 Награда {0} уровня
 49341
-Phase {0}
+Этап {0}
 49342
 Рейд
 49343
-You have received a level 1 login reward. Please check your HEMS mailbox.
+Награда 1-го уровня, за проведенное в игре время, была отправлена вам на почту.
 49344
-You have received a level 2 login reward. Please check your HEMS mailbox.
+Награда 2-го уровня, за проведенное в игре время, была отправлена вам на почту.
 49345
-You have received a level 3 login reward. Please check your HEMS mailbox.
+Награда 3-го уровня, за проведенное в игре время, была отправлена вам на почту.
 49400
 Профиль
 49401
@@ -13998,9 +13998,9 @@ Name Squad Officer
 60250
 SoulSquad expulsion
 60251
-Авто-поиск (SoulSquad)
+Поиск (SoulSquad)
 60252
-Авто-поиск недоступен
+Поиск недоступен
 60256
 Quit automatic squad search
 60257
