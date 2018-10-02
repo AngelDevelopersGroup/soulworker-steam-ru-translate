@@ -916,7 +916,7 @@ Teams only (4 players)
 740
 Расход энергии
 741
-You need a pass.
+Нужен пропуск.
 742
 Recommended level: LV{0}
 743
@@ -940,7 +940,7 @@ Equipped items
 752
 {0} +{1}
 753
-Respawn limit (1 player)
+Макс. возр. (на игрока)
 755
 <font color='#0099FF'>Можно разобрать</font>
 756
@@ -1582,7 +1582,7 @@ Available restorations
 1452
 {0} has added {1}.
 1453
-{0} has crafted {1}.
+{0} создал {1}.
 2001
 Select the word to use in the title.
 2002
@@ -1630,11 +1630,11 @@ Whisper
 2118
 Удалить
 2119
-Block
+Добавить
 2120
 Block
 2121
-Cancel
+Убрать
 2122
 УР{0}
 2123
@@ -7352,7 +7352,7 @@ Are you sure you want to post this announcement?
 28070
 Create Announcement
 28071
-Please verify the guild announcement’s content
+Не забудьте проверить объявления гильдии
 28072
 Are you sure you want to post this announcement?\nPlease verify the content.
 28073
@@ -8478,7 +8478,7 @@ Ranking
 32071
 Team
 32072
-Авто-поиск группы
+Авто-поиск (Группа)
 32073
 Look for Team
 32074
@@ -13292,7 +13292,7 @@ This zone can only be entered as a team.
 55034
 The max. amount of members was exceeded. Entry is not possible.
 55035
-Item {0} required for district entry is not available.
+Для входа необходимы следующие предметы:\n{0}
 55036
 Invading this district is not possible.
 55037
@@ -13912,7 +13912,7 @@ Do you want to pass the Squad Officer role to {0}?
 60207
 Do you want to kick {0} from the SoulSquad?
 60208
-SoulSquad Invitation
+В SoulSquad
 60209
 SoulSquads only
 60210
@@ -13924,7 +13924,7 @@ Squad player
 60213
 SoulSquad
 60214
-SoulSquad Invitation
+В SoulSquad
 60215
 Leave SoulSquad
 60216
@@ -13986,7 +13986,7 @@ You cannot leave the SoulSquad at your current location.
 60244
 Squad player {0} has refused entry to the district.
 60245
-SoulSquad Invitation
+В SoulSquad
 60246
 Confirm leaving the SoulSquad
 60247
@@ -13998,9 +13998,9 @@ Name Squad Officer
 60250
 SoulSquad expulsion
 60251
-Automatic squad search
+Авто-поиск (SoulSquad)
 60252
-Automatic squad search unavailable
+Авто-поиск недоступен
 60256
 Quit automatic squad search
 60257
@@ -14086,9 +14086,9 @@ We’ve a crisis on our hands.\nDo you want to help?
 60297
 Matchmaking in progress. <font color='#FFBB00'>{0}</font> sec remaining
 60500
-4–8 player SoulSquad
+Для 4–8 игроков (SoulSquad)
 60501
-1–4 игроков
+Для 1–4 игроков
 60502
 Группа из 4-х игроков 
 60503
