@@ -1,4 +1,4 @@
-7522
+7526
 1
 OK
 2
@@ -1582,7 +1582,7 @@ Available restorations
 1452
 {0} has added {1}.
 1453
-{0} создал {1}.
+{0} has crafted {1}.
 2001
 Select the word to use in the title.
 2002
@@ -7352,7 +7352,7 @@ Are you sure you want to post this announcement?
 28070
 Create Announcement
 28071
-Не забудьте проверить объявления в гильдии
+Please verify the guild announcement’s content
 28072
 Are you sure you want to post this announcement?\nPlease verify the content.
 28073
@@ -15043,3 +15043,11 @@ Issuing login bonus...
 You have already received the login bonus.
 33565
 Greed
+20183
+Grutin Greeting
+20184
+You greet like a Grutin would, gru gru.
+20185
+{0} greets like a Grutin, gru gru.
+20186
+Grutin Greeting
