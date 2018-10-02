@@ -1582,7 +1582,7 @@ Available restorations
 1452
 {0} has added {1}.
 1453
-{0} has crafted {1}.
+{0} создал {1}.
 2001
 Select the word to use in the title.
 2002
@@ -7352,7 +7352,7 @@ Are you sure you want to post this announcement?
 28070
 Create Announcement
 28071
-Please verify the guild announcement’s content
+Не забудьте проверить объявления в гильдии
 28072
 Are you sure you want to post this announcement?\nPlease verify the content.
 28073
