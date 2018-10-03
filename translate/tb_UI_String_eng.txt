@@ -7352,7 +7352,7 @@ Are you sure you want to post this announcement?
 28070
 Create Announcement
 28071
-Не забудьте проверить объявления гильдии
+Не забудьте проверить новые сообщения в гильдии
 28072
 Are you sure you want to post this announcement?\nPlease verify the content.
 28073
