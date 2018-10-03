@@ -532,7 +532,7 @@ The additive is registered automatically.
 477
 Результат
 478
-Очки района
+Очки
 479
 Время
 480
@@ -904,15 +904,15 @@ The most difficult raid, Golden Citadel, takes place in a district for teams of 
 734
 Test and come to know your limits in the combat training zone Steel Graves.
 735
-Средний
+Средняя
 736
-Тяжелый
+Тяжелая
 737
 Маньяк
 738
-Teams only
+Только для группы
 739
-Teams only (4 players)
+Только для группы (4 игрока)
 740
 Расход энергии
 741
@@ -2694,7 +2694,7 @@ Reset\nskill tree
 7002
 СЕРИЯ
 7003
-Ст.
+Этап
 7004
 Please select a skill row.
 7005
