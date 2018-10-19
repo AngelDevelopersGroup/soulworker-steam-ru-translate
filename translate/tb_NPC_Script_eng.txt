@@ -1,0 +1,789 @@
+394
+100001
+Dummy NPC
+100002
+HyperWaver
+101000
+Miriam
+101001
+Miriam
+101003
+Xivus
+101004
+Oden
+101005
+Yumi
+101006
+Selene
+101007
+Minio
+101008
+Ryoko
+101009
+Glain
+101010
+Amad
+101203
+Amad
+101011
+Chloe
+101012
+Godren
+101013
+Galloy
+101014
+Aaron
+101015
+Enday
+101016
+Leo
+101019
+Clack
+101020
+Ari
+101021
+Miriam
+102001
+Counter
+101022
+Benjy
+101023
+Wilba
+101024
+Wilba
+101025
+Wilba
+101026
+Seoni
+101027
+Seoni
+101028
+Scral
+101029
+Tommy
+101030
+Tommy
+101034
+HEMS
+101035
+Afflicted
+101036
+Aaron
+101037
+Aaron
+101038
+Shade
+101039
+Luke III
+101040
+Luke
+101041
+Henryk
+101042
+Henryk
+101043
+Bamz
+101044
+Bamz
+101045
+Leona
+101046
+Leona
+101047
+Leona
+101048
+Corps Soldier
+101049
+Researcher
+101050
+Capsule
+101051
+Yumi
+101052
+Xivus
+101053
+Oden
+101054
+HEMS
+101055
+Toru
+101056
+Ava
+101057
+Maverick
+101058
+Maverick
+101059
+Maverick
+101060
+Sora
+101061
+Lex
+101062
+Rainmaster
+101063
+Rainmaster
+101064
+Rawper
+101065
+Rawper
+101066
+Rawper
+101067
+Henryk
+101068
+Gonzo
+101069
+Gonzo
+101070
+Maxim
+101071
+Karen
+101072
+Medo
+101073
+Yop
+101074
+Yop
+101075
+Nova Worker
+101076
+Central Cortex
+101077
+Pato
+101078
+Pato
+101079
+Yumi
+101080
+Xivus
+101081
+Oden
+101082
+HEMS
+101083
+Aaron
+101084
+Aaron
+101085
+Gwen
+101086
+Scral
+101087
+Reza
+101088
+Elvis
+101089
+Tommy
+101090
+Poy
+101091
+Voy
+101092
+Lonely Soldier
+101093
+NED Employee
+101094
+Trisha
+101095
+Clepp
+101096
+Jenna
+101097
+Shade
+101098
+Abdel
+101099
+Bamz
+101100
+Leona
+101101
+Leona
+101102
+Rita
+101103
+Trashbert
+101104
+Hel
+101105
+Corps Soldier
+101106
+Treasurer
+101107
+Trisha
+101108
+Clepp
+101109
+Jenna
+101110
+Hifu
+101111
+Gonzo 2
+101112
+Maxim
+101113
+Maxim 2
+101114
+Karen
+101115
+Karen 2
+101116
+Leon
+101117
+Medo
+101118
+Minio
+101119
+Lisbee
+101120
+Sanjyoon
+101121
+Julie
+101122
+Udey
+101123
+Goldie
+101124
+Fearful Soldier
+101125
+Shaking Soldier
+101126
+Lax Soldier
+101127
+Tired Soldier
+101128
+Trisha
+101129
+Clepp
+101130
+Jenna
+101131
+Avon
+101132
+Casen
+101133
+Casen
+101134
+Casen
+101135
+Casen
+101136
+Amanda
+101137
+Ian
+101138
+Tabro
+101139
+Tabro
+101140
+Dr. Stoph
+101141
+Dr. Stoph
+101142
+Dr. Stoph
+101143
+Jayoon
+101144
+Abel
+101145
+Abel
+101146
+Abel
+101147
+Abel
+101148
+Maverick
+101149
+Maverick
+101150
+Maverick
+101151
+Lakasha
+101152
+Frances
+101153
+Betty
+101154
+Betty
+101155
+Dusty
+101156
+Nomaam
+101157
+Xivus
+101158
+Oden
+101159
+Yumi
+101160
+HEMS
+101161
+Trisha
+101162
+Clepp
+101163
+Jenna
+101164
+Shiho
+101165
+Shiho
+101166
+Shiho
+101167
+Shiho
+101168
+Yulsa
+101169
+Yulsa
+101170
+Yulsa
+101171
+Yulsa
+101172
+Lucy
+101173
+Lucy
+101174
+Howi
+101175
+Lucy
+101176
+SFL Scout
+101177
+SFL Scout
+101178
+Miriam
+101179
+Wilba
+101180
+Miriam
+101181
+Access NPC
+101182
+Strange Child
+101208
+Strange Child
+101210
+Strange Child
+101220
+Strange Child
+101183
+Pure Soul
+101184
+Cheeky Cat
+101185
+SFL Researcher
+101194
+Catherine
+101196
+Catherine
+101219
+Guild Manager
+101301
+Home-o-Mat
+101302
+HEMS
+201000
+Medi-Angel
+201001
+Medi-Angel
+201002
+Deputy
+201003
+Blacksmith
+201004
+Banker
+201005
+Trader
+201006
+Reporter
+201007
+Scallywag
+201008
+Ryoko
+201009
+Glain
+201010
+SoulForcer
+201017
+Tactical Troop
+201018
+Tactical Troop
+202001
+Counter
+201011
+Chloe
+201012
+Godren
+201013
+Galloy
+201014
+Company Head
+201015
+Enday
+201016
+Leo
+201019
+Clack
+201020
+Logistician
+201021
+Medi-Angel
+201022
+Medi-Major
+201023
+Medi-Angel
+201024
+Medi-Angel
+201025
+Medi-Angel
+201026
+Medi-Angel
+201027
+Medi-Angel
+201028
+Commander
+201029
+NED Employee
+201030
+NED Employee
+201031
+Trader
+201032
+Blacksmith
+201033
+Banker
+201034
+Post System
+201035
+Medi-Angel
+201036
+Army Chief
+201037
+Army Chief
+201038
+Strategist
+201039
+Volunteer Corps
+201040
+Volunteer Corps
+201041
+NED Director
+201042
+NED Director
+201043
+NED Mercenary
+201044
+NED Mercenary
+201045
+Secretary
+201046
+Secretary
+201047
+Secretary
+201048
+Corps Soldier
+201049
+NED Researcher
+201050
+Capsule
+201051
+Trader
+201052
+Blacksmith
+201053
+Banker
+201054
+Post System
+201055
+Deputy
+201056
+Captain
+201057
+Officer
+201058
+Officer
+201059
+Officer
+201060
+Medi-Angel
+201061
+Prime Lab Tech
+201062
+Armoured Force
+201063
+Armoured Force
+201064
+NED Notary
+201065
+NED Notary
+201066
+NED Notary
+201067
+NED Director
+201068
+Officer
+201069
+Officer
+201070
+Maintenance SQD
+201071
+Maintenance SQD
+201072
+Tactical Troop
+201073
+Tactical Troop
+201074
+Tactical Troop
+201075
+Unknown
+201076
+Control PC
+201077
+Resident
+201078
+Resident
+201079
+Trader
+201080
+Blacksmith
+201081
+Banker
+201082
+Post System
+201083
+Glain’s Sister
+201084
+Sad Widow
+201085
+Artist
+201086
+LION PD
+201087
+Mad Doctor
+201088
+Medi-Angel
+201089
+NED Employee
+201090
+Tuning Expert
+201091
+Cyclist
+201092
+Crafting
+201093
+Honest Guy
+201094
+Home Visitor
+201095
+Recluse
+201096
+Top Cameraman
+201097
+Treasurer
+201098
+Tuning Expert
+201099
+Cyclist
+201100
+Crafting
+201101
+Officer
+201102
+Chopper Pilot
+201103
+Matron
+201104
+Affluent Man
+201105
+Snotty Brat
+201106
+Inv. Manager
+201107
+Retriever Champ
+201108
+Combatant
+201109
+Combatant
+201110
+Combatant
+201111
+Combatant
+201112
+Scout Leader
+201113
+Veteran
+201114
+Comms Officer
+201115
+ExNED Member
+201116
+Maintenance OFC
+201117
+Repenter
+201118
+Blood SoulWorker
+201119
+Demi God
+201120
+Vice Lab Tech
+201121
+Comms Soldier
+201122
+Robocleaner
+201123
+Bravor AI
+201124
+Aethari
+201125
+Borilyn
+201126
+NBRF
+201127
+Control Base
+201128
+Battle Manager
+201129
+Weapons Shop
+201130
+General Store
+201131
+Bank Assistant
+201132
+Quest NPC
+201133
+HEMS
+201134
+Lonely Kid
+201139
+SFL Scout
+201140
+SFL Scout
+201141
+Catherine
+201142
+Aaron’s Daughter
+201143
+Wax Figure
+201144
+Wax Figure
+201145
+Wax Figure
+201146
+Wax Figure
+201147
+Nathan
+201148
+Nael
+201149
+Deleska
+201150
+Billy
+201151
+Potentate
+201152
+Strange Child
+201153
+Deleska Bandit
+201154
+Corps Pilot
+201155
+Akasha Expert
+201156
+Naomin
+201157
+Ravan
+101225
+Nita
+101226
+Naran
+101238
+Strange Child
+101239
+Strange Child
+201160
+Guild Manager
+101240
+Mixmaster W
+101241
+Mixmaster B
+201240
+Manufacturing
+101249
+Suzie
+101250
+Mister-o-Mat
+101272
+Strange Child
+201250
+Grutin-o-Mat
+101311
+Servant
+201251
+Home Manager
+201252
+Strange Child
+201253
+Strange Child
+201254
+Quartermaster
+201255
+Xeno Treasurer
+101257
+Fashion-O-Mat
+201262
+Fashion Randomiser
+101251
+Tenebris
+101252
+Avon
+101253
+Amanda
+101254
+Miriam
+101255
+Betty
+101256
+Bamz
+101258
+Shadow Walker
+101259
+Shadow Walker
+101260
+Shadow Walker
+101261
+Shadow Walker
+101262
+Shadow Walker
+101263
+Shadow Walker
+201256
+Ur SoulWorker
+201257
+Void Captain
+201258
+Void Contactor
+201259
+Void Search Party
+201260
+Brave Soldier
+201261
+Stray Mercenary
+201263
+Haru Morph
+201264
+???
+201265
+Erwin Morph
+201266
+Lilly Morph
+201267
+Jin Morph
+201268
+Stella Morph
+201269
+Iris Morph
+101330
+Aqua Grutin
+201282
+Beach Grutin
