@@ -56454,7 +56454,7 @@ Icon/Item/BluePrint/Equip/WP_PC1
 0
 0
 0
-In the Name of Aurith (Blueprint 1)
+Ауритовая Зубочистка (Blueprint 1)
 <font color='#FFBA85'>Blueprint<font color='#9D927B'>\n\nA SoulWeapon blueprint for crafting In the Name of Aurith.\nRookie Raid equipment is used to make it. The product matches blueprint 2.
 712554611
 Icon/Item/BluePrint/Equip/WP_PC2
@@ -56472,7 +56472,7 @@ Icon/Item/BluePrint/Equip/WP_PC3
 0
 0
 0
-Aurith Devourer (Blueprint 1)
+Ауритовая Клюшка (Blueprint 1)
 <font color='#FFBA85'>Blueprint<font color='#9D927B'>\n\nA SoulWeapon blueprint for crafting the Aurith Devourer.\nRookie Raid equipment is used to make it. The product matches blueprint 2.
 714554611
 Icon/Item/BluePrint/Equip/WP_PC4
@@ -56490,7 +56490,7 @@ Icon/Item/BluePrint/Equip/WP_PC5
 0
 0
 0
-Merlio’s Aurith (Blueprint 1)
+Ауритовый Веник (Blueprint 1)
 <font color='#FFBA85'>Blueprint<font color='#9D927B'>\n\nA SoulWeapon blueprint for crafting the Merlio’s Aurith.\nRookie Raid equipment is used to make it. The product matches blueprint 2.
 711554612
 Icon/Item/BluePrint/Equip/WP_PC1
@@ -56499,7 +56499,7 @@ Icon/Item/BluePrint/Equip/WP_PC1
 0
 0
 0
-In the Name of Aurith (Blueprint 2)
+Ауритовая Зубочистка (Blueprint 2)
 <font color='#FFBA85'>Blueprint<font color='#9D927B'>\n\nA SoulWeapon blueprint for crafting In the Name of Aurith.\nEquipment from Steel Graves is used to make it. The product matches blueprint 1.
 712554612
 Icon/Item/BluePrint/Equip/WP_PC2
@@ -56517,7 +56517,7 @@ Icon/Item/BluePrint/Equip/WP_PC3
 0
 0
 0
-Aurith Devourer (Blueprint 2)
+Ауритовая Клюшка (Blueprint 2)
 <font color='#FFBA85'>Blueprint<font color='#9D927B'>\n\nA SoulWeapon blueprint for crafting the Aurith Devourer.\nEquipment from Steel Graves is used to make it. The product matches blueprint 1.
 714554612
 Icon/Item/BluePrint/Equip/WP_PC4
@@ -56535,7 +56535,7 @@ Icon/Item/BluePrint/Equip/WP_PC5
 0
 0
 0
-Merlio’s Aurith (Blueprint 2)
+Ауритовый Веник (Blueprint 2)
 <font color='#FFBA85'>Blueprint<font color='#9D927B'>\n\nA SoulWeapon blueprint for crafting the Merlio’s Aurith.\nEquipment from Steel Graves is used to make it. The product matches blueprint 1.
 710554631
 Icon/Item/BluePrint/Equip/HeadGear
@@ -56652,7 +56652,7 @@ Icon/Item/SoulWeapon/PC_A/SOU_0_AureateOrder
 0
 0
 0
-In the Name of Aurith
+Ауритовая Зубочистка
 <font color='#FFBA85'>SW: Soulum<font color='#9D927B'>\n\nA SoulWorker’s weapon. This item is refined by a blinding cloud of gold that comes from a shining sky. Anyone who holds this weapon for long enough loses themselves entirely in its appearance and power. I really want to sink into its shimmer... body... and soul...\nHaru Estia fights with this Soulum.\n\nGold has been the root of all grief since time immemorial.\nDon’t sink too deeply into the golden pain.\n- Shiho -
 112554651
 Icon/Item/SoulWeapon/PC_B/SOU_0_AureateVanity
@@ -56670,7 +56670,7 @@ Icon/Item/SoulWeapon/PC_C/SOU_0_AureateDecay
 0
 0
 0
-Aurith Devourer
+Ауритовая Клюшка
 <font color='#FFBA85'>SW: Mist Scythe<font color='#9D927B'>\n\nA SoulWorker’s weapon. This item is refined by a blinding cloud of gold that comes from a shining sky. Anyone who holds this weapon for long enough loses themselves entirely in its appearance and power. I really want to sink into its shimmer... body... and soul...\nLilly Bloommerchen fights with this Mist Scythe.\n\nGold has been the root of all grief since time immemorial.\nDon’t sink too deeply into the golden pain.\n- Shiho -
 114554651
 Icon/Item/SoulWeapon/PC_D/SOU_0_AureateBastion
@@ -56688,7 +56688,7 @@ Icon/Item/SoulWeapon/PC_E/SOU_0_AureateMelos
 0
 0
 0
-Merlio’s Aurith
+Ауритовый Веник
 <font color='#FFBA85'>SW: Howling Guitar<font color='#9D927B'>\n\nA SoulWorker’s weapon. This item is refined by a blinding cloud of gold that comes from a shining sky. Anyone who holds this weapon for long enough loses themselves entirely in its appearance and power. I really want to sink into its shimmer... body... and soul...\nStella Unibell fights with this Howling Guitar.\n\nGold has been the root of all grief since time immemorial.\nDon’t sink too deeply into the golden pain.\n- Shiho -
 510554651
 Icon/Item/Gear/HeadGear/GEA_0_22_AureateFallenHead
@@ -71511,7 +71511,7 @@ Icon/Item/SoulWeapon/PC_F/PC_F_WP_048
 0
 0
 0
-Aurith Fury
+Ауритовая Торпеда
 <font color='#FFBA85'>SW: Hammer Stol<font color='#9D927B'>\n\nA SoulWorker’s weapon. This item is refined by a blinding cloud of gold that comes from a shining sky. Anyone who holds this weapon for long enough loses themselves entirely in its appearance and power. I really want to sink into its shimmer... body... and soul...\nIris Yuma fights with this weapon.\n\nGold has been the root of all grief since time immemorial.\nDon’t sink too deeply into the golden pain.\n- Shiho -
 116554251
 Icon/Item/SoulWeapon/PC_F/PC_F_WP_050
@@ -82050,7 +82050,7 @@ Icon/Item/BluePrint/Equip/WP_pc6
 0
 0
 0
-Aurith Fury (Blueprint)
+Ауритовая Торпеда (Blueprint)
 <font color='#FFBA85'>Blueprint<font color='#9D927B'>\n\nThe blueprint of the Aurith Fury.
 716553614
 Icon/Item/BluePrint/Equip/WP_pc6
@@ -83553,7 +83553,7 @@ Icon/Item/BluePrint/Equip/WP_pc6
 0
 0
 0
-Aurith Fury (Blueprint 1)
+Ауритовая Торпеда (Blueprint 1)
 <font color='#FFBA85'>Blueprint<font color='#9D927B'>\n\n\nA SoulWeapon blueprint for crafting the Aurith Fury.\nRookie Raid equipment is used to make it. The product matches blueprint 2.
 716554612
 Icon/Item/BluePrint/Equip/WP_pc6
@@ -83562,7 +83562,7 @@ Icon/Item/BluePrint/Equip/WP_pc6
 0
 0
 0
-Aurith Fury (Blueprint 2)
+Ауритовая Торпеда (Blueprint 2)
 <font color='#FFBA85'>Blueprint<font color='#9D927B'>\n\nA SoulWeapon blueprint for crafting the Aurith Fury.\nEquipment from Steel Graves is used to make it. The product matches blueprint 1.
 836000289
 Icon/Item/Cash/ETC_0_WingBroachTransfer
