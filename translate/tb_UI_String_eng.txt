@@ -5248,7 +5248,7 @@ Enter Akasha mode
 22550
 Комьюнити
 22551
-Игровой прогресс
+Прогресс
 22552
 Гильдия
 22553
@@ -6694,13 +6694,13 @@ Final HP
 26205
 Defence rate at the same level
 26206
-More attack damage: SoulWeapon
+Больше урона от атаки: Оружие Души
 26207
-More attack damage: SoulWeapon
+Больше урона от атаки: Оружие Души
 26208
-More defence: Armour
+Больше защиты: Броня
 26209
-More defence: Armour
+Больше защиты: Броня
 26300
 There is a 5% probability of inflicting Reflect with {0}% damage
 26301
@@ -6750,7 +6750,7 @@ Received crit damage has a 50% probability of healing your HP: +{0}
 26323
 Your move speed increases in the city limits: +{0}%
 26324
-Damage received from boss has a 10% probability of reducing their attack damage for 5 sec: -{0}%
+Удар полученный от босса с 10% шансом уменьшает его урон от атаки на 5 сек: -{0}%
 26325
 Evasion increases the attack damage of your next hit: +{0}%
 26326
@@ -6776,7 +6776,7 @@ Damage received has a 20% probability of granting super armour for 5 sec.
 26336
 Damage received has a 20% probability of granting super armour for 6 sec.
 26337
-Evasion reduces damage received for 5 sec: -{0}%.
+Уклонение уменьшает получаемый урон на 5 сек: -{0}%.
 26338
 Aerial attack damage received reduces attack damage for 5 sec: -{0}%.
 26339
@@ -6862,7 +6862,7 @@ Sprinting has a 10% probability of increasing the opponent’s defence for 5 sec
 26379
 Победа увеличивает урон атаки на 5 сек: +{0}
 26380
-Победа увеличивает урон атаки на раскол брони на 5 сек: +{0}%
+Победа увеличивает раскол брони на 5 сек: +{0}%
 26381
 Defeating decreases the opponent’s defence for 5 sec: +{0}%
 26500
@@ -11832,7 +11832,7 @@ Do you want to quit Steel Graves?
 49236
 Leave Steel Graves
 49300
-Игровой прогресс
+Прогресс
 49301
 Достижения
 49302
@@ -11934,7 +11934,7 @@ There are still daily quests that you haven’t accepted.
 49407
 Системное меню
 49408
-Игровой прогресс
+Прогресс
 49409
 Духовный Цикл
 49410
