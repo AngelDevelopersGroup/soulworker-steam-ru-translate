@@ -3604,7 +3604,7 @@ By keyword
 16813
 By category
 16814
-Ник
+Герой
 16815
 Level
 16816
@@ -3656,7 +3656,7 @@ Withdraw
 16839
 {0} дней
 16840
-All characters
+Все
 16841
 Common
 16842
@@ -4180,7 +4180,7 @@ Trade
 18707
 Система
 18708
-Event
+Событие
 18709
 Уведомление
 18710
@@ -5368,7 +5368,7 @@ Shout
 22632
 Система
 22633
-Event
+Событие
 22634
 Мегафон
 22635
@@ -5424,7 +5424,7 @@ Transparency inactive
 22660
 Клавиша {0} не может быть использована.\nПожалуйста, выберите другую.
 22661
-Духовный Цикл
+Цикл Духа
 22662
 Аукцион
 22663
@@ -6252,7 +6252,7 @@ Seeds
 24888
 Plants
 24889
-Event
+Событие
 24890
 Bicycle
 24891
@@ -6560,13 +6560,13 @@ Red. Enemy Magic Defence
 26079
 Раскол брони
 26080
-Reduced SF Consumption
+Снижение расхода СД
 26081
 Опыт с врагов
 26082
 Дзенаи с врагов
 26083
-Получение Соул Новы
+Сбор SoulNova
 26084
 Permanent durability
 26085
@@ -6698,9 +6698,9 @@ Defence rate at the same level
 26207
 Больше урона от атаки: Оружие Души
 26208
-Больше защиты: Броня
+Доп. защита: Броня
 26209
-Больше защиты: Броня
+Доп. защита: Броня
 26300
 There is a 5% probability of inflicting Reflect with {0}% damage
 26301
@@ -6748,7 +6748,7 @@ Received crit damage has a 50% probability of healing your HP: +{0}
 26322
 Удар с 5% шансом увеличивает раскол брони на 5 сек: +{0}%
 26323
-Your move speed increases in the city limits: +{0}%
+Скорость передвижения в черте города увеличена: +{0}%
 26324
 Удар полученный от босса с 10% шансом уменьшает его урон атаки на 5 сек: -{0}%
 26325
@@ -6758,7 +6758,7 @@ Evasion has a 5% probability of regenerating your HP +{0}
 26327
 A hit has a 2% probability of regenerating your stamina: {0}
 26328
-Your move speed increases in districts: +{0}%
+Скорость передвижения в районах увеличена: +{0}%
 26329
 Damage received has a 15% probability of increasing your defence for 5 sec: +{0}%
 26330
@@ -11234,7 +11234,7 @@ Top Up SoulCash
 45011
 Purchase
 45012
-Event
+Событие
 45013
 Purchase
 45014
@@ -11736,9 +11736,9 @@ Zone of Action:
 49100
 Забрать
 49101
-Духовный Цикл
+Цикл Духа
 49102
-Духовный Цикл
+Цикл Духа
 49103
 Collection List
 49104
@@ -11936,7 +11936,7 @@ There are still daily quests that you haven’t accepted.
 49408
 Прогресс
 49409
-Духовный Цикл
+Цикл Духа
 49410
 Ежед.\nзадания
 49411
@@ -12038,7 +12038,7 @@ Notification message
 49632
 Защита
 49633
-Help Type
+Вспомогательное
 49700
 Create second password
 49701
@@ -12118,7 +12118,7 @@ Achievement
 49919
 Failed
 49920
-Event
+Событие
 49921
 Accept
 49922
@@ -14340,7 +14340,7 @@ Announcement
 49238
 Update
 49239
-Event
+Событие
 60716
 Teleportation Book
 60717
@@ -14532,7 +14532,7 @@ Gift Boxes and their guards first appear in the public area.\nYou will need to d
 40712
 Sorry to say, but the happy festival for singles has already come to an end.\nYou will be removed automatically shortly.
 60600
-Event
+Событие
 60601
 Selected item
 60602
@@ -15734,13 +15734,13 @@ PC를 공격하는 영감님은 반드시 상대할 필요는 없습니다.
 40746
 나쁜짓은 하나도 안했는데…정말로..\n진짜로 착한아이로 살았는데…왜 나만…
 8404
-30 min
+30 мин
 8405
-60 min
+60 мин
 8406
-90 min
+90 мин
 8407
-Day {0}
+День {0}
 49343
 Награда за вход отправлена на почту (1 уровень)
 49344
@@ -15914,15 +15914,15 @@ Counter {0}%
 8202
 Exalted {0}%
 8300
-Ежедневная награда
+Бонусы
 8301
-Входов
+Серия входов
 8302
 Награда
 8303
 Забрать
 8304
-За время
+Месяц
 8305
 #{0}
 8306
@@ -15930,7 +15930,7 @@ Exalted {0}%
 8307
 Получено
 8308
-— Каждый день вы получаете награду за вход в игру. После получения всех наград, на следующий день, серия начнется с начала.\n— Счётчик наград сбрасывается каждое первое число.\n— Счётчик ежедневных наград сбрасывается каждый день, в 9 часов утра.
+— Каждый день вы получаете награду за вход в игру.\n— Счётчик наград сбрасывается каждое первое число.\n— Счётчик ежедневных наград сбрасывается каждый день, в 9 часов утра.
 8309
 Дополнительная награда за проведенное в игре время
 8310
