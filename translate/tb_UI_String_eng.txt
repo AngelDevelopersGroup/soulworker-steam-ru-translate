@@ -6748,7 +6748,7 @@ Received crit damage has a 50% probability of healing your HP: +{0}
 26322
 Удар с 5% шансом увеличивает раскол брони на 5 сек: +{0}%
 26323
-Скорость передвижения в черте города увеличена: +{0}%
+Скорость передвижения в черте города: +{0}%
 26324
 Удар полученный от босса с 10% шансом уменьшает его урон атаки на 5 сек: -{0}%
 26325
@@ -6758,7 +6758,7 @@ Evasion has a 5% probability of regenerating your HP +{0}
 26327
 A hit has a 2% probability of regenerating your stamina: {0}
 26328
-Скорость передвижения в районах увеличена: +{0}%
+Скорость передвижения в районах: +{0}%
 26329
 Damage received has a 15% probability of increasing your defence for 5 sec: +{0}%
 26330
@@ -15734,13 +15734,13 @@ PC를 공격하는 영감님은 반드시 상대할 필요는 없습니다.
 40746
 나쁜짓은 하나도 안했는데…정말로..\n진짜로 착한아이로 살았는데…왜 나만…
 8404
-30 мин
+30 м
 8405
-60 мин
+60 м
 8406
-90 мин
+90 м
 8407
-День {0}
+{0} Дн
 49343
 Награда за вход отправлена на почту (1 уровень)
 49344
@@ -15930,7 +15930,7 @@ Exalted {0}%
 8307
 Получено
 8308
-— Каждый день вы получаете награду за вход в игру.\n— Счётчик наград сбрасывается каждое первое число.\n— Счётчик ежедневных наград сбрасывается каждый день, в 9 часов утра.
+- You receive your consecutive login bonus with the daily login. Once you have received all bonuses once, the Login Bonus series starts fresh fro the first day.\n- The monthly Login Bonus is reset on the 1st of each month.\n- The daily Login Bonus is reset at 9 AM each day.
 8309
 Дополнительная награда за проведенное в игре время
 8310
