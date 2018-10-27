@@ -66,7 +66,7 @@ Invade
 52
 Склад
 53
-Экипировка
+Эквип
 54
 Лавка
 55
@@ -4364,95 +4364,95 @@ Lexicon Entry
 18814
 Member Radio
 19000
-<font color='#47C83E'>Атака +1%/Частичный урон +1%</font>
+<font color='#47C83E'>Атака +1%<br>Частичный урон +1%</font>
 19001
-<font color='#4374D9'>Атака +2%/Частичный урон +2%</font>
+<font color='#4374D9'>Атака +2%<br>Частичный урон +2%</font>
 19002
-<font color='#E0B94F'>Атака +3%/Частичный урон +3%</font>
+<font color='#E0B94F'>Атака +3%<br>Частичный урон +3%</font>
 19003
 <font color='#F15F5F'>Атака +4%<br>Частичный урон +4%<br>Пробивание брони +1%</font>
 19004
-<font color='#8041D9'>Атака +5%/Частичный урон +5%/Пробивание брони +2%</font>
+<font color='#8041D9'>Атака +5%<br>Частичный урон +5%<br>Пробивание брони +2%</font>
 19005
-<font color='#47C83E'>Защита +5%/HP +4%</font>
+<font color='#47C83E'>Защита +5%<br>HP +4%</font>
 19006
-<font color='#4374D9'>Защита +10%/ОЗ +8%</font>
+<font color='#4374D9'>Защита +10%<br>ОЗ +8%</font>
 19007
-<font color='#E0B94F'>Защита +15%/ОЗ +12%</font>
+<font color='#E0B94F'>Защита +15%<br>ОЗ +12%</font>
 19008
-<font color='#F15F5F'>Защита +20%/ОЗ +16%</font>
+<font color='#F15F5F'>Защита +20%<br>ОЗ +16%</font>
 19009
-<font color='#8041D9'>Защита +25%/ОЗ +20%</font>
+<font color='#8041D9'>Защита +25%<br>ОЗ +20%</font>
 19010
-<font color='#47C83E'>Уклонение 10/Сопр. к крит. 1%</font>
+<font color='#47C83E'>Уклонение 10<br>Сопр. к крит. 1%</font>
 19011
-<font color='#4374D9'>Уклонение 20/Сопр. к крит. 2%</font>
+<font color='#4374D9'>Уклонение 20<br>Сопр. к крит. 2%</font>
 19012
-<font color='#E0B94F'>Уклонение 30/Сопр. к крит. 3%</font>
+<font color='#E0B94F'>Уклонение 30<br>Сопр. к крит. 3%</font>
 19013
-<font color='#F15F5F'>Уклонение 40/Сопр. к крит. 4%/Урон -4%</font>
+<font color='#F15F5F'>Уклонение 40<br>Сопр. к крит. 4%<br>Урон -4%</font>
 19014
-<font color='#8041D9'>Уклонение 50/Сопр. к крит. 5%/Урон -5%</font>
+<font color='#8041D9'>Уклонение 50<br>Сопр. к крит. 5%<br>Урон -5%</font>
 19015
-<font color='#47C83E'>Макс. выносл. +5/Скорость атаки +1%</font>
+<font color='#47C83E'>Макс. выносл. +5<br>Скорость атаки +1%</font>
 19016
-<font color='#4374D9'>Макс. выносл. +8/Скорость атаки +2%</font>
+<font color='#4374D9'>Макс. выносл. +8<br>Скорость атаки +2%</font>
 19017
-<font color='#E0B94F'>Макс. выносл. +11/Скорость атаки +3%</font>
+<font color='#E0B94F'>Макс. выносл. +11<br>Скорость атаки +3%</font>
 19018
-<font color='#F15F5F'>Макс. выносл. +14\nСкорость атаки +4%\nСкорость перед. +3%</font>
+<font color='#F15F5F'>Макс. выносл. +14<br>Скорость атаки +4%<br>Скорость перед. +3%</font>
 19019
-<font color='#8041D9'>Макс. выносл. +17/Скорость атаки +5%/Скорость перед. +4%</font>
+<font color='#8041D9'>Макс. выносл. +17<br>Скорость атаки +5%<br>Скорость перед. +4%</font>
 19020
-<font color='#47C83E'>Точность +10/Крит. урон +600</font>
+<font color='#47C83E'>Точность +10<br>Крит. урон +600</font>
 19021
-<font color='#4374D9'>Accuracy +20/Крит. урон +700</font>
+<font color='#4374D9'>Точность +20<br>Крит. урон +700</font>
 19022
-<font color='#E0B94F'>Accuracy +30/Крит. урон +800</font>
+<font color='#E0B94F'>Точность +30<br>Крит. урон +800</font>
 19023
-<font color='#F15F5F'>Accuracy +40/Крит. урон +900/Crit Rate +1%</font>
+<font color='#F15F5F'>Точность +40<br>Крит. урон +900<br>Крит. шанс +1%</font>
 19024
-<font color='#8041D9'>Accuracy +50/Крит. урон +1,000/Crit Rate +2%</font>
+<font color='#8041D9'>Точность +50<br>Крит. урон +1,000<br>Крит. шанс +2%</font>
 19025
-<font color='#47C83E'>Attack Damage +1%</font>
+<font color='#47C83E'>Урон атаки +1%</font>
 19026
-<font color='#4374D9'>Attack Damage +3%</font>
+<font color='#4374D9'>Урон атаки +3%</font>
 19027
-<font color='#E0B94F'>Attack Damage +5%</font>
+<font color='#E0B94F'>Урон атаки +5%</font>
 19028
-<font color='#F15F5F'>Attack Damage +8%</font>
+<font color='#F15F5F'>Урон атаки +8%</font>
 19029
-<font color='#8041D9'>Attack Damage +11%</font>
+<font color='#8041D9'>Урон атаки +11%</font>
 19030
-<font color='#47C83E'>Crit Rate +1%</font>
+<font color='#47C83E'>Крит. шанс +1%</font>
 19031
-<font color='#4374D9'>Crit Rate +2%</font>
+<font color='#4374D9'>Крит. шанс +2%</font>
 19032
-<font color='#E0B94F'>Crit Rate +3%</font>
+<font color='#E0B94F'>Крит. шанс +3%</font>
 19033
-<font color='#F15F5F'>Crit Rate +4%</font>
+<font color='#F15F5F'>Крит. шанс +4%</font>
 19034
-<font color='#8041D9'>Crit Rate +5%</font>
+<font color='#8041D9'>Крит. шанс +5%</font>
 19035
-<font color='#47C83E'>Super Armour Break: +2%</font>
+<font color='#47C83E'>Слом брони: +2%</font>
 19036
-<font color='#4374D9'>Super Armour Break: +5%</font>
+<font color='#4374D9'>Слом брони: +5%</font>
 19037
-<font color='#E0B94F'>Super Armour Break: +8%</font>
+<font color='#E0B94F'>Слом брони: +8%</font>
 19038
-<font color='#F15F5F'>Super Armour Break: +12%</font>
+<font color='#F15F5F'>Слом брони: +12%</font>
 19039
-<font color='#8041D9'>Super Armour Break: +16%</font>
+<font color='#8041D9'>Слом брони: +16%</font>
 19040
-<font color='#47C83E'>Скорость атаки +1%/Move Speed +1%</font>
+<font color='#47C83E'>Скорость атаки +1%<br>Скорость передв. +1%</font>
 19041
-<font color='#4374D9'>Скорость атаки +2%/Move Speed +2%</font>
+<font color='#4374D9'>Скорость атаки +2%<br>Скорость передв. +2%</font>
 19042
-<font color='#E0B94F'>Скорость атаки +3%/Move Speed +3%</font>
+<font color='#E0B94F'>Скорость атаки +3%<br>Скорость передв. +3%</font>
 19043
-<font color='#F15F5F'>Скорость атаки +5%/Move Speed +4%</font>
+<font color='#F15F5F'>Скорость атаки +5%<br>Скорость передв. +4%</font>
 19044
-<font color='#8041D9'>Скорость атаки +6%/Move Speed +6%</font>
+<font color='#8041D9'>Скорость атаки +6%<br>Скорость передв. +6%</font>
 19045
 <font color='#47C83E'>Крит. урон +700</font>
 19046
