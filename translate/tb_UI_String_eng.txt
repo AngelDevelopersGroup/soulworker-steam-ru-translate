@@ -6468,7 +6468,7 @@ Max. SoulNova
 26033
 Атака
 26034
-Урон от атаки
+Урон атаки
 26035
 Magic Attack Damage
 26036
@@ -6750,7 +6750,7 @@ Received crit damage has a 50% probability of healing your HP: +{0}
 26323
 Your move speed increases in the city limits: +{0}%
 26324
-Удар полученный от босса с 10% шансом уменьшает его урон от атаки на 5 сек: -{0}%
+Удар полученный от босса с 10% шансом уменьшает его урон атаки на 5 сек: -{0}%
 26325
 Evasion increases the attack damage of your next hit: +{0}%
 26326
@@ -15924,7 +15924,7 @@ Exalted {0}%
 8304
 За время
 8305
-Через
+#{0}
 8306
 {0}:{1}:{2}
 8307
