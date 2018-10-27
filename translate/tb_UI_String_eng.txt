@@ -1,4 +1,4 @@
-7526
+8080
 1
 OK
 2
@@ -180,7 +180,7 @@ Set
 138
 Навыки
 139
-А.К.
+Акаши
 140
 Супернова
 141
@@ -835,18 +835,8 @@ Fully incapacitated, you can no longer get up. You have been transported to {0}.
 Received for rank: {0} XP
 700
 Поговорить
-701
-Лавка
-702
-Склад
-703
-Улучшение
-704
-Слияние
 705
 Auction House
-706
-Изготовление
 707
 Fashion (not set)
 708
@@ -865,22 +855,14 @@ NPC function
 Dialogue
 715
 Quest Dialogue
-716
-В начало
-717
-Назад (BKSPACE)
 718
 Дальше (SPACE)
-719
-Пропустить
 720
 Закр. (ESC)
 721
 End conversation (SPACE)
 722
 Complete (SPACE)
-723
-Soulstones
 724
 Принять (SPACE)
 725
@@ -891,10 +873,6 @@ Soulstones
 {0} ОПЫТ
 728
 УР{0}
-729
-Recycle
-730
-Усиление
 731
 Rk.{0}
 732
@@ -2581,8 +2559,6 @@ Failed to add the Akasha skill.
 Можно снять
 6042
 Снять А.К.
-6043
-Добавить/Снять
 6044
 Akasha skills can only be added with the aid of materials.\nOnce added, Akasha skills cannot be traded.
 6045
@@ -2730,7 +2706,7 @@ Cards
 7101
 Откат: -{0}%
 7102
-SF consumption: -{0}%
+Расход СД: -{0}%
 8000
 Прогресс {0}/{1} {2}%
 8001
@@ -2745,122 +2721,6 @@ SF consumption: -{0}%
 Войти ({0})
 8006
 Закрыть ({0})
-8100
-Район: {0} - Эпизод: {1}
-8101
-Entry Open
-8200
-Монстр: LV{0} {1}
-8201
-Counter {0}%
-8202
-Exalted {0}%
-8300
-Ежедневная награда
-8301
-Входов
-8302
-Награда
-8303
-Забрать
-8304
-За время
-8305
-Через
-8306
-{0}:{1}:{2}
-8307
-Получено
-8308
-В очереди
-8309
-Дополнительная награда за проведенное в игре время
-8310
-Награда за вход
-8311
-Получена награда за вход.
-8312
-Награда за вход
-8313
-Login-check bonus credited.
-8314
-Reward can’t be credited.
-8315
-Can’t accept the reward because there’s no room in the inventory.
-8316
-1
-8317
-2
-8318
-3
-8319
-4
-8320
-5
-8321
-6
-8322
-7
-8323
-8
-8324
-9
-8325
-10
-8326
-11
-8327
-12
-8328
-13
-8329
-14
-8330
-15
-8331
-16
-8332
-17
-8333
-18
-8334
-19
-8335
-20
-8336
-21
-8337
-22
-8338
-23
-8339
-24
-8340
-25
-8341
-26
-8342
-27
-8343
-28
-8344
-29
-8345
-30
-8346
-31
-8347
-За вход
-8348
-Раз в день вы получаете награду за вход в игру
-8400
-Dead
-8401
-Current location: {0}
-8402
-В другой локации.
-8403
-НЕ В СЕТИ
 9000
 SEASON 1
 9001
@@ -4286,7 +4146,7 @@ Kilonova
 18602
 Раскол брони: {0}%
 18603
-SF Consumption: {0}%
+Расход СД: {0}%
 18650
 Voucher used
 18651
@@ -4434,15 +4294,15 @@ Member Radio
 19034
 <font color='#8041D9'>Крит. шанс +5%</font>
 19035
-<font color='#47C83E'>Слом брони: +2%</font>
+<font color='#47C83E'>Раскол брони: +2%</font>
 19036
-<font color='#4374D9'>Слом брони: +5%</font>
+<font color='#4374D9'>Раскол брони: +5%</font>
 19037
-<font color='#E0B94F'>Слом брони: +8%</font>
+<font color='#E0B94F'>Раскол брони: +8%</font>
 19038
-<font color='#F15F5F'>Слом брони: +12%</font>
+<font color='#F15F5F'>Раскол брони: +12%</font>
 19039
-<font color='#8041D9'>Слом брони: +16%</font>
+<font color='#8041D9'>Раскол брони: +16%</font>
 19040
 <font color='#47C83E'>Скорость атаки +1%<br>Скорость передв. +1%</font>
 19041
@@ -6626,7 +6486,7 @@ Magic Defence
 26042
 Magic Accuracy
 26043
-Partial Damage
+Частичный урон
 26044
 Крит. шанс
 26045
@@ -6706,7 +6566,7 @@ Reduced SF Consumption
 26082
 Дзенаи с врагов
 26083
-SoulNova Received
+Получение Соул Новы
 26084
 Permanent durability
 26085
@@ -6714,7 +6574,7 @@ Gesture: Dance Moves
 26086
 Do not display options for effects on sustained damage (quickview)
 26087
-При победе: восстановление ОЗ
+При победе: восст. ОЗ
 26088
 If victory: SF Regeneration
 26089
@@ -6968,15 +6828,15 @@ Partial damage has a 10% probability of increasing your crit damage for 3 sec: +
 26362
 Stamina under 10% increases your attack damage: +{0}
 26363
-Received damage has a 30% probability of increasing your attack damage for 5 sec: +{0}
+Получение урона с 30% шансом увеличит урон атаки на 5 сек: +{0}
 26364
-Received damage has a 30% probability of increasing your accuracy for 5 sec: +{0}
+Получение урона с 30% шансом увеличит точность на 5 сек: +{0}
 26365
-Received damage has a 30% probability of increasing your crit damage for 5 sec: +{0}
+Получение урона с 30% шансом увеличит крит. урон на 5 сек: +{0}
 26366
-Received damage has a 30% probability of increasing your partial damage for 5 sec: +{0}%
+Получение урона с 30% шансом увеличит частичный урон на 5 сек: +{0}%
 26367
-Damage received has a 30% probability of increasing your super armour break for 5 sec: +{0}%
+Получение урона с 30% шансом увеличит раскол брони на 5 сек: +{0}%
 26368
 Evasion has a 30% probability of increasing your attack damage for 5 sec: +{0}%
 26369
@@ -7000,9 +6860,9 @@ Sprinting has a 10% probability of increasing your super armour break for 5 sec:
 26378
 Sprinting has a 10% probability of increasing the opponent’s defence for 5 sec: -{0}%
 26379
-Defeating increases your attack damage for 5 sec: +{0}
+Победа увеличивает урон атаки на 5 сек: +{0}
 26380
-Defeating increases your super armour break for 5 sec: +{0}%
+Победа увеличивает урон атаки на раскол брони на 5 сек: +{0}%
 26381
 Defeating decreases the opponent’s defence for 5 sec: +{0}%
 26500
@@ -7209,10 +7069,6 @@ PvP: Evasion +{0}
 PvP: +{0}% attack speed for 1 sec on receiving damage
 27893
 PvP: Max. stamina +{0}
-28000
-Create Guild
-28001
-Guild List
 28002
 To form a guild, the following terms must be met.
 28003
@@ -7259,8 +7115,6 @@ The {0} Guild has been formed.
 Unable to form guild
 28024
 As a guild disbandment penalty, it won’t be possible to form a new guild for \n{0} days.
-28025
-Disband guild
 28026
 When a guild is disbanded, all items in the guild storage will be deleted.\nPlease consider this carefully.
 28027
@@ -7583,12 +7437,6 @@ The guild name has not been entered. Please enter the guild name.
 Guild forming fee
 28186
 100,000 DZ
-28187
-Склад гильдии
-28188
-Transfer guild
-28189
-Disband guild
 28190
 Участник
 28191
@@ -9825,18 +9673,8 @@ You have completed the Hall of Depravity. Proceed to the Hall of Omens.
 You have completed the Hall of Chaos. Proceed to the Hall of Omens.
 40611
 You have completed the Hall of Ruin. Go through the Hall of Omens to return to the city zone.
-40612
-Press the Heat Switch for 20 sec resistance to Frost.
-40613
-After pressing the Heat Switch, frost appears until you can use it again. (Cooldown: 30 sec)
 40614
 Destroy the Flame Crystal over the lava cap to stop the Stromboli Stream.
-40615
-Sphere 6 is about to summon an unavoidable Storm of Burans that will trigger Frost.\nMove as far as you can out of the range of D-Line Mageddon.
-40616
-The Auri Obelisk appears in phases and summons mighty walls of Elms Fire.\nYou can attack and destroy the Auri Obelisk.
-40617
-When you have defeated all 3 Venom Blooms, Dora Demon is stunned.
 40618
 As soon as you leave the safe zone, the battle begins.
 40619
@@ -12079,12 +11917,6 @@ There are still daily quests that you haven’t accepted.
 Этап {0}
 49342
 Рейд
-49343
-Награда 1-го уровня, за проведенное в игре время, была отправлена вам на почту.
-49344
-Награда 2-го уровня, за проведенное в игре время, была отправлена вам на почту.
-49345
-Награда 3-го уровня, за проведенное в игре время, была отправлена вам на почту.
 49400
 Профиль
 49401
@@ -14605,8 +14437,6 @@ Amanda, Dishonour Cannon
 You have risen to the rank of Honorable Gun Jazz.
 5063
 You have risen to the rank of Adamant Mist Scythe.
-5065
-You have risen to the rank of Fearless Howling Guitar.
 18305
 Are you sure you want to skip this section of the tutorial?
 18306
@@ -14933,8 +14763,6 @@ Before the Grand Blaze Taifon attacks, a shield generator is discharged, which a
 Доп. урон: Golden Menace
 26127
 Снижение урона: Golden Menace
-58310
-You cannot acquire this item whilst under the current conditions.
 29121
 Loading My Home.\nThis message will disappear once the page has fully loaded.\n\nShould it take too long (more than 1 minute), you can head back to the city zone by pressing ‘Confirm’.
 29122
@@ -15051,3 +14879,1283 @@ You greet like a Grutin would, gru gru.
 {0} greets like a Grutin, gru gru.
 20186
 Grutin Greeting
+11001
+Utopian
+11002
+Fantastic
+11003
+Battered
+11004
+Refined
+11005
+Restless
+11006
+Merciless
+11007
+Lost
+11008
+Pesky
+11009
+Disowned
+11010
+Merciful
+11011
+Loyal
+11012
+Turbulent
+11013
+Worn-out
+11014
+Deceptive
+11015
+Reckless
+11016
+Proficient
+11017
+Steely
+11018
+Calm
+11019
+Seething
+11020
+Blazing
+11021
+Blinding
+11022
+Thundering
+11023
+Enlightening
+11024
+Heroic
+11025
+Obsessed
+11026
+Veiled
+11027
+Ferocious
+11028
+Upscale
+11029
+Deceptive
+11030
+Reckless
+11031
+Utopian
+11032
+Fantastic
+11033
+Unflinching
+11034
+Red Hot
+11035
+Ambitious
+11036
+Primeval
+11037
+Merciful
+11038
+Loyal
+11039
+Turbulent
+11040
+Massive
+11041
+Fireproof
+11042
+Luminous
+11043
+Lawless
+11044
+Flawless
+11045
+Oceanic
+11046
+Thundering
+11047
+Enlightening
+11048
+Heroic
+11049
+Utopian
+11050
+Fantastic
+11051
+Battered
+11052
+Refined
+11053
+Restless
+11054
+Merciless
+11055
+Lost
+11056
+Pesky
+11057
+Disowned
+11058
+Merciful
+11059
+Loyal
+11060
+Turbulent
+11061
+Worn-out
+11062
+Deceptive
+11063
+Reckless
+11064
+Proficient
+11065
+Steely
+11066
+Calm
+11201
+Seething
+11202
+Blazing
+11203
+Blinding
+11204
+Thundering
+11205
+Enlightening
+11206
+Heroic
+11207
+Obsessed
+11208
+Veiled
+11209
+Ferocious
+11210
+Upscale
+11211
+Deceptive
+11212
+Reckless
+11213
+Utopian
+11214
+Fantastic
+11215
+Unflinching
+11216
+Cursed
+11217
+Red Hot
+11218
+Ambitious
+11219
+Primeval
+11220
+Misty
+11221
+Harmonious
+11222
+Merciful
+11223
+Worn-out
+11224
+Massive
+11225
+Fireproof
+11226
+Luminous
+11227
+Instinctive
+11228
+Lawless
+11229
+Flawless
+11230
+Oceanic
+11231
+Chosen
+11232
+Lifelike
+11233
+Enlightening
+11234
+Heroic
+11235
+Utopian
+11236
+Fantastic
+11237
+Battered
+11238
+Refined
+11239
+Restless
+11240
+Merciless
+11241
+Lost
+11242
+Pesky
+11243
+Disowned
+11244
+Merciful
+11245
+Loyal
+11246
+Turbulent
+11247
+Worn-out
+11248
+Deceptive
+11249
+Reckless
+11250
+Proficient
+11251
+Steely
+11252
+Calm
+11253
+Seething
+11254
+Blazing
+11255
+Blinding
+11256
+Thundering
+11257
+Enlightening
+11258
+Heroic
+11259
+Obsessed
+11260
+Veiled
+11261
+Ferocious
+11262
+Upscale
+11263
+Deceptive
+11264
+Reckless
+11265
+Utopian
+11266
+Fantastic
+11301
+Unflinching
+11302
+Cursed
+11303
+Nameless
+11304
+Dire
+11305
+Red Hot
+11306
+Ambitious
+11307
+Primeval
+11308
+Silenced
+11309
+Misty
+11310
+Harmonious
+11311
+Imposing
+11312
+Colossal
+11313
+Famed
+11314
+Massive
+11315
+Fireproof
+11316
+Luminous
+11317
+Instinctive
+11318
+Inscrutable
+11319
+Gentle
+11320
+Lawless
+11321
+Flawless
+11322
+Oceanic
+11323
+Shining
+11324
+Chosen
+11325
+Lifelike
+11326
+Idyllic
+11327
+Erratic
+11328
+Fearless
+11329
+Utopian
+11330
+Fantastic
+11331
+Battered
+11332
+Refined
+11333
+Restless
+11334
+Merciless
+11335
+Lost
+11336
+Pesky
+11337
+Disowned
+11338
+Merciful
+11339
+Loyal
+11340
+Turbulent
+11341
+Worn-out
+11342
+Deceptive
+11343
+Reckless
+11344
+Proficient
+11345
+Steely
+11346
+Calm
+11347
+Seething
+11348
+Blazing
+11349
+Blinding
+11350
+Thundering
+11351
+Enlightening
+11352
+Heroic
+11353
+Obsessed
+11354
+Veiled
+11355
+Ferocious
+11356
+Upscale
+11357
+Deceptive
+11358
+Reckless
+11359
+Utopian
+11360
+Fantastic
+11361
+Unflinching
+11362
+Cursed
+11363
+Nameless
+11364
+Dire
+11365
+Red Hot
+11366
+Ambitious
+11401
+Primeval
+11402
+Silenced
+11403
+Misty
+11404
+Harmonious
+11405
+Imposing
+11406
+Colossal
+11407
+Famed
+11408
+Massive
+11409
+Fireproof
+11410
+Luminous
+11411
+Instinctive
+11412
+Inscrutable
+11413
+Gentle
+11414
+Lawless
+11415
+Flawless
+11416
+Oceanic
+11417
+Shining
+11418
+Chosen
+11419
+Lifelike
+11420
+Idyllic
+11421
+Erratic
+11422
+Fearless
+11423
+Utopian
+11424
+Fantastic
+11425
+Battered
+11426
+Refined
+11427
+Restless
+11428
+Merciless
+11429
+Lost
+11430
+Pesky
+11431
+Disowned
+11432
+Merciful
+11433
+Loyal
+11434
+Turbulent
+11435
+Worn-out
+11436
+Deceptive
+11437
+Reckless
+11438
+Proficient
+11439
+Steely
+11440
+Calm
+11441
+Seething
+11442
+Blazing
+11443
+Blinding
+11444
+Thundering
+11445
+Enlightening
+11446
+Heroic
+11447
+Obsessed
+11448
+Veiled
+11449
+Ferocious
+11450
+Upscale
+11451
+Deceptive
+11452
+Reckless
+11453
+Utopian
+11454
+Fantastic
+11455
+Unflinching
+11456
+Cursed
+11457
+Nameless
+11458
+Dire
+11459
+Red Hot
+11460
+Ambitious
+11461
+Primeval
+11462
+Silenced
+11463
+Misty
+11464
+Harmonious
+11465
+Imposing
+11466
+Colossal
+11501
+Famed
+11502
+Massive
+11503
+Fireproof
+11504
+Luminous
+11505
+Instinctive
+11506
+Inscrutable
+11507
+Gentle
+11508
+Lawless
+11509
+Flawless
+11510
+Oceanic
+11511
+Shining
+11512
+Chosen
+11513
+Lifelike
+11514
+Idyllic
+11515
+Erratic
+11516
+Fearless
+11517
+Utopian
+11518
+Fantastic
+11519
+Battered
+11520
+Refined
+11521
+Restless
+11522
+Merciless
+11523
+Lost
+11524
+Pesky
+11525
+Disowned
+11526
+Merciful
+11527
+Loyal
+11528
+Turbulent
+11529
+Worn-out
+11530
+Deceptive
+11531
+Reckless
+11532
+Proficient
+11533
+Steely
+11534
+Calm
+11535
+Seething
+11536
+Blazing
+11537
+Blinding
+11538
+Thundering
+11539
+Enlightening
+11540
+Heroic
+11541
+Obsessed
+11542
+Veiled
+11543
+Ferocious
+11544
+Upscale
+11545
+Deceptive
+11546
+Reckless
+11547
+Utopian
+11548
+Fantastic
+11549
+Unflinching
+11550
+Cursed
+11551
+Nameless
+11552
+Dire
+11553
+Red Hot
+11554
+Ambitious
+11555
+Primeval
+11556
+Silenced
+11557
+Misty
+11558
+Harmonious
+11559
+Imposing
+11560
+Colossal
+11561
+Famed
+11562
+Massive
+11563
+Fireproof
+11564
+Luminous
+11565
+Instinctive
+11566
+Inscrutable
+11601
+Gentle
+11602
+Lawless
+11603
+Flawless
+11604
+Oceanic
+11605
+Shining
+11606
+Chosen
+11607
+Lifelike
+11608
+Idyllic
+11609
+Erratic
+11610
+Fearless
+20187
+Work in Black
+20188
+Work in Black
+20189
+Target sighted. Awaiting instructions.
+20190
+Target sighted. {0} is awaiting instructions.
+20179
+Hanbok B
+20180
+Hanbok B
+20181
+The outfit that you are wearing blossoms all year round.
+20182
+The outfit that {0} is wearing blossoms all year round.
+40612
+Press the Heat Switch for 20 sec resistance to Frost.
+40613
+After pressing the Heat Switch, frost appears until you can use it again. (Cooldown: 30 sec)
+40615
+Sphere 6 is about to summon an unavoidable Storm of Burans that will trigger Frost.\nMove as far as you can out of the range of D-Line Mageddon.
+40616
+The Auri Obelisk appears in phases and summons mighty walls of Elms Fire.\nYou can attack and destroy the Auri Obelisk.
+40617
+When you have defeated all 3 Venom Blooms, Dora Demon is stunned.
+27894
+In PvP you have a 5% probability to inflict the following damage: {0}% of enemy’s max HP
+26382
+Evasion has a 30% probability of increasing your attack damage for 5 sec: +{0}
+27938
+HP regeneration has a 30% probability of increasing your move speed for 3 sec: +{0}%
+27939
+Evasion has a 10% probability of increasing your attack speed: +{0}%
+5927
+<font color='#FFFFFF'><font size="30">TIP。</font>이노센트 데이드림에서는 장비의 등급과 레벨이 낮을수록 장비로 인해 적용되는 효과가 줄어들게 됩니다.
+5928
+<font color='#FFFFFF'><font size="30">TIP。</font>이노센트 데이드림의 몬스터들은 통상 몬스터들 보다 더욱 강력합니다.<br /> 대신 클리어 시 많은 보상을 획득할 수 있습니다.
+10017
+이노센트 데이드림
+10018
+황폐한 클라우드림에서도 천진난만한 소녀는 오늘도 꿈속에서 여러가지 것 들과 같이 재미있는 놀이를 합니다. 소녀는 과연 무슨 꿈을 꾸었을까요?
+40721
+저기 저기! 있잖아! 어제 세츠카 엄청 재미있는 꿈 꿨어
+40722
+아빠랑 언니랑 자주가던 R스퀘어에 놀러갔는데 귀여운 강아지들이 막 반겨줬어! \n하양이도 있었고 검둥이도 있었어!
+40723
+배고파 보였는데 줄게 없어서 좀 아쉬웠어.요미 언니한테 나중에 펫푸드좀 달라고 떼써봐야지.
+40724
+쪼끄만 인형이 촛불에 불을 붙여줬어! 세츠카를 반겨주는거 같아서 기분이 좋았어
+40725
+커다란 인형은 세츠카의 머리를 막 쓰다듬어줬어. \n배가 통통해서 껴안으면 포근할거같았어!
+40726
+커다란 돌멩이들이 막 굴러다녔는데 되게 단단해보였어.
+40727
+세츠카도 따라해보려고 막 이렇게 이렇게 굴렀는데 잘못해서 넘어졌어
+40728
+근데 어어어엄청 큰 돌멩이 아저씨가 세츠카를 일으켜 세워줬어!
+40729
+되게 큰 눈을 가진 애가 나를 막 쳐다봐서 울고싶었는데 꾹 참고 세츠카도 같이 째려봐줬어.
+40730
+손이 되게 많이 달린 애가 악수해줬는데 세츠카는 손이 2개밖에 없어서 조금 힘들었어.
+40731
+이상한 가면오빠도 있었는데 세츠카가 손 흔들어주니까 그 오빠도 손을 흔들어줘서 기뻤어.
+40732
+팔이 4개인 오빠도 봤는데 팔이 4개면 아까 그 외계인이랑 악수하기 쉬울까?
+40733
+우리 옆집 아저씨랑 비슷하게 생긴 아저씨도 있었는데 다음에 또 보게되면 꼭 인사할꺼야.
+40734
+되게 이쁜 언니도있었어! 미리엄언니만큼 이뻤어! 미리엄 언니한테도 이야기 꼭 해줘야지.
+40735
+큰 도끼를 든 나무꾼 아저씨가 막 화냈어. 여기까지 오면 안된다고…..
+40736
+조금 무서웠는데 세츠카를 걱정하는 것 같았어.
+40737
+하아아암…세츠카 또 졸린거같아. 나중에 또 재밌는 꿈 꾸면 이야기해줄께. 바이바이~
+110000
+사용횟수
+110001
+회차
+110002
+카운트 박스 아이템 사용
+110003
+[일일 선물상자] 아이템을 사용하시겠습니까?\n※아래 목록의 아이템을 획득할 수 있습니다.
+22693
+Set Soul Upgrade Auxiliary Weapon
+48210
+<font color='#FF0000'>레전드 패밀리어 추출 불가</font>
+48211
+같은 타입의 패밀리어는 장착할 수 없습니다.
+48212
+대상소켓에 {0} 을 장착하시겠습니까?\n<font color='#FF0000'>중복 장착일 경우 기존에 장착 된 소켓 아이템은 삭제 됩니다.</font>
+48213
+해당 부위에 장착할 수 없는 패밀리어 입니다.
+24896
+기어 패밀리어
+38030
+거래소 판매 수수료 {0}% 할인
+24671
+Material
+24897
+Converter Crafting Material
+49241
+You have received a Login Reward. Please check your HEMS mailbox.
+59700
+You have reached your max number of favourites and cannot add any more.\nYou can save a maximum of 30 primary and secondary titles as favourites.
+62000
+PC방 혜택 메뉴
+62001
+코스튬 대여
+62002
+장바구니
+62003
+받기
+62004
+해당 아이템은 PC방 에서만 사용 가능합니다.\nPC방이 아닌 장소에서 접속 시 자동으로 회수 됩니다.
+62005
+카메라 회전
+62006
+카메라 줌
+62007
+캐릭터 이동
+62008
+검색
+63000
+This function cannot be used in districts.
+62009
+장바구니 목록이 가득 찼습니다.
+62010
+PC방 혜택
+59101
+Item delivery has failed.
+59102
+INetCafé items are only valid for logins from a PC within an INetCafé.
+20201
+히어로
+20202
+정의의 수호자! 등★장☆
+20203
+정의의 수호자 {0}! 등★장☆
+20204
+군악대
+20205
+악기를 꺼내 힘차게 연주를 시작합니다.
+20206
+{0}님이 악기를 꺼내 힘차게 연주를 시작합니다.
+10541
+더럽혀진 결사의 기록
+10542
+더럽혀진 광기의 기록
+10543
+더럽혀진 희망의 기록
+10544
+더럽혀진 슬픔의 기록
+10545
+광기와 슬픔의 부록
+40738
+PC를 공격하는 영감님은 반드시 상대할 필요는 없습니다.
+40739
+사용하는 오브젝트에 따라 소환되는 몬스터가 결정되며 오브젝트는 한번만 사용 가능합니다.
+40740
+잠시 후 광기에 물든 소녀가 소환됩니다. 주의하세요
+40741
+잠시 후 슬픔에 빠진 소녀와 영감님이 소환됩니다. 주의하세요
+40742
+잠시 후 광기에 물든 소녀와 슬픔에 빠진 소녀. 그리고 영감님이 소환됩니다. 행운을 빕니다.
+40743
+그 공포에 가득찬 눈은 참으로 제 취향이랍니다. 꼭 갖고싶군요.
+40744
+뭘 그렇게 두려워 하는거죠? 뭘 그렇게 마음속에 꼭꼭 숨겨둔거죠?
+40745
+그만해….괴롭히지마…제발…….제발….\n이제 아픈건 싫단말이야!
+40746
+나쁜짓은 하나도 안했는데…정말로..\n진짜로 착한아이로 살았는데…왜 나만…
+8404
+30 min
+8405
+60 min
+8406
+90 min
+8407
+Day {0}
+49343
+Награда 1-го уровня, за проведенное в игре время, была отправлена вам на почту.
+49344
+Награда 2-го уровня, за проведенное в игре время, была отправлена вам на почту.
+49345
+Награда 3-го уровня, за проведенное в игре время, была отправлена вам на почту.
+719
+Пропустить
+701
+Лавка
+702
+Склад
+703
+Улучшение
+704
+Слияние
+706
+Изготовление
+716
+В начало
+717
+Назад (BKSPACE)
+729
+Recycle
+730
+Усиление
+28000
+Create Guild
+28001
+Guild List
+28025
+Disband guild
+28187
+Склад
+28189
+Disband guild
+28188
+Transfer guild
+723
+Soulstones
+18925
+Soulstones ({0})
+18917
+Found Guild ({0})
+18918
+Guild List ({0})
+18919
+Склад Гильдии ({0})
+18920
+Disband Guild ({0})
+18921
+Transfer Guild ({0})
+18922
+My Home News ({0})
+18923
+HEMS-o-Mat ({0})
+18924
+Support ({0})
+6043
+Добавить/Снять
+52070
+아이템 사용을 할 수 없습니다.
+52071
+아이템 선택 개수가 맞지 않습니다.
+64002
+<font color='#0099FF'>태그 제련 가능</font>
+64001
+등급개조
+64003
+옵션개조
+64004
+태그개조
+64005
+태그 제련 확률
+64006
+{0}%
+64007
+태그 제련칩을 등록해주세요.
+64008
+태그 제련 재료 등록
+64009
+태그 제련 대상 장비 및 태그 제련칩를 등록해주세요.
+64010
+개조
+64011
+태그 제련
+64012
+성공
+64013
+실패
+64014
+태그 제련 재료를 등록해주세요.
+65014
+{0} 등급의 태그가 랜덤하게 부여됩니다.
+24023
+태그 제련칩
+24333
+무기 태그 제련칩
+24334
+기어 태그 제련칩
+24672
+태그 제련칩
+24898
+무기 태그 제련칩
+24899
+기어 태그 제련칩
+65015
+태그 제련 대상 장비에는 태그가 부여되어 있습니다. 태그 제련 실패 시 부여된 태그가 제거 될 수 있습니다. 계속 하시겠습니까?
+65016
+태그 제련 대상 장비와 제련하려는 태그 제련 칩이 일치하기 때문에, 등록 할 수 없습니다.
+52080
+시스템 오류로 아이템에 태그를 추가할 수 없습니다.
+52081
+제니가 부족하여 아이템에 태그를 추가할 수 없습니다.
+52082
+에텔이 부족하여 아이템에 태그를 추가할 수 없습니다.
+33571
+추락하는 조화(초보자)
+24673
+태그 제작 재료
+24335
+태그 제작 재료
+24950
+태그 제작 재료
+11701
+광란의
+11702
+감염된
+11703
+불타오르는
+11704
+강철의
+11705
+광휘의
+11706
+공허의
+11707
+태고의
+11708
+꿈꾸는
+11709
+만발하는
+11710
+자유로운
+11711
+일백검의
+11712
+깨어난
+3077
+Your trading partner has modified their goods. Cancelling trade agreement.
+50113
+You have logged in from an unknown MAC address.\nPlease contact your Community Management representative.
+8007
+Resolve
+8008
+An irregularity has been located in this district. \nSubmit it for troubleshooting by pressing ESC and then clicking ‘Resolve’.
+8009
+After checking, no irregularity has been located in this district. If you continue to have issues, please contact your Community Management representative.
+8010
+All irregularities have been resolved in this district. If you continue to have issues, please contact your Community Management representative.
+8020
+Failed to reset the audio hardware. Please check the hardware driver as well as the settings used during installation. {0}
+8100
+Район: {0} - Эпизод: {1}
+8101
+Entry Open
+8200
+Монстр: LV{0} {1}
+8201
+Counter {0}%
+8202
+Exalted {0}%
+8300
+Ежедневная награда
+8301
+Входов
+8302
+Награда
+8303
+Забрать
+8304
+За время
+8305
+Через
+8306
+{0}:{1}:{2}
+8307
+Получено
+8308
+В очереди
+8309
+Дополнительная награда за проведенное в игре время
+8310
+Награда за вход
+8311
+Получена награда за вход.
+8312
+Награда за вход
+8313
+Login-check bonus credited.
+8314
+Reward can’t be credited.
+8315
+Can’t accept the reward because there’s no room in the inventory.
+8316
+1
+8317
+2
+8318
+3
+8319
+4
+8320
+5
+8321
+6
+8322
+7
+8323
+8
+8324
+9
+8325
+10
+8326
+11
+8327
+12
+8328
+13
+8329
+14
+8330
+15
+8331
+16
+8332
+17
+8333
+18
+8334
+19
+8335
+20
+8336
+21
+8337
+22
+8338
+23
+8339
+24
+8340
+25
+8341
+26
+8342
+27
+8343
+28
+8344
+29
+8345
+30
+8346
+31
+8347
+За вход
+8348
+Раз в день вы получаете награду за вход в игру
+8400
+Dead
+8401
+Current location: {0}
+8402
+В другой локации.
+8403
+НЕ В СЕТИ
+18765
+확률 보기
+22692
+Show Help window
+22691
+Show ally player effects
+18761
+선택 상자 사용
+18762
+아이템 {0}개를 선택해주세요.
+18763
+{0}개 선택 가능
+18764
+받기
+149
+Automatic selection
+150
+Lesser than Common
+151
+Lesser than Magical
+152
+Lesser than Rare
+5915
+<font color='#FFFFFF'><font size="30">TIP。</font>공허 애벌레를 공격하면 PC에게 적용된 <font color='#FF0033'>[힘줄절단]</font>과<font color='#FF0033'>[뇌진탕]</font> 디버프를 먹어치웁니다.
+5916
+<font color='#FFFFFF'><font size="30">TIP。</font><font color='#FF0033'>[영혼붕괴]</font>디버프는 잠시 후 <font color='#FF0033'>[타락한 영혼]</font>으로 변경됩니다. 변경은 1명에게만 적용됩니다.
+5917
+<font color='#FFFFFF'><font size="30">TIP。</font>전투에 취한 요르하카는 자신의 주위에 아무도 없다면 <font color='#FF0033'>미쳐 날뛰게 됩니다. </font>이 공격은 매우 강력합니다.
+5918
+<font color='#FFFFFF'><font size="30">TIP。</font>요르하카가 체력을 회복중일 때 <font color='#FF0033'>슈퍼아머</font>상태가 됩니다. <font color='#FF0033'>슈퍼아머</font>를 파괴해야 회복상태를 멈출 수 있습니다.
+5919
+<font color='#FFFFFF'><font size="30">TIP。</font>[라반] 처치 시 [시온], [에녹] 처치시 [노아]가 등장합니다. 라반과 시온은 강력한 스킬을 사용합니다. 
+5920
+<font color='#FFFFFF'><font size="30">TIP。</font>각성체인 니어소울워커의 스킬들은 강력하니 조심하세요.
+5921
+<font color='#FFFFFF'><font size="30">TIP。</font>니어소울워커들을 모두 쓰러뜨리면 중앙에서 특별한 보상상자가 출현합니다.
+5922
+<font color='#FFFFFF'><font size="30">TIP。</font>스카이클락 팰리스의 점유율보상을 잊지마세요!
+5923
+<font color='#FFFFFF'><font size="30">TIP。</font><font color='#FF0033'>[타락한 영혼]</font>상태에서 적을 공격하면 매 공격시 대상의 체력을 회복시키며 <br />받는피해가 60%감소되는<font color='#FF0033'>[흡수된 힘]</font> 버프를 부여합니다.
+5924
+<font size="25">맞습니다. 저희는 <font color='#00D8FF'>유저</font><font size="25">님들밖에 모르는 <font color='#00D8FF'>바보</font> <font size="25">입니다.</font>
+5925
+<font size="35">워커님! </font><font size="30"><font color='#FF0033'>사랑합니다아아아아아!</font> <font size="30">워커니이이이이임!!!!!!</font>
+5926
+<font size="30">Thanks for Playing </font> <font size="30"><font color='#00D8FF'>SoulWorker</font>
+9108
+디스토피아 레이드
+9109
+스페셜 메이즈
+10106
+이노센트 데이드림
+18604
+Damage per hit: {0}%
+19810
+스워즈 폴
+19811
+슬래싱 워페어
+19812
+익스팅션 프렐류드
+19820
+블레이즈 호버
+19821
+미션 콜
+19822
+지오메트리 플래툰
+19830
+블러디 블로섬
+19831
+퓨리 마하
+19832
+아스모데우스
+19840
+기간틱 프레셔
+19841
+카운터 스트림
+19842
+액티비티 오버차지
+19850
+네크리스 프린세스
+19851
+울브스 쇼타임
+19852
+스텔라심포니
+24022
+Sell
+24895
+For Sale
+32121
+이동
+32122
+긴급 회피
+32123
+에어리얼
+32124
+슈퍼아머
+32125
+로코 타운
+32126
+캔더스 시티
+32127
+그레이스 시티
+32128
+루인 포트리스
+32129
+잔디이불 캠프
+32130
+고객등급
+32131
+제 6구역
+33566
+보이드 세트
+33567
+보이드 액세서리 세트
+33568
+디스오더즈 I 세트
+33569
+디스오더즈 II 세트
+33570
+디스오더즈 액세서리 세트
+38025
+강화 성공률 +5% 증가
+48417
+알터 오브 보이드의 [매니악] 난이도입니다. 모든 몬스터의 능력치가 높게 설정되어 있으며 추가 패턴이 등장합니다.
+5064
+<단결의 스피릿암즈>로 승급되었습니다.
+5065
+You have risen to the rank of Fearless Howling Guitar.
+5066
+<용맹의 해머스톨>로 승급되었습니다.
+10006
+스카이클락 팰리스
+10007
+공백 내부에 정체 모를 제단이 발견되었습니다. 프라이멀과는 다른 색다른 난이도의 [알터 오브 보이드]에서 요르하카를 쓰러트려 주십시오.
+10008
+라반! 노아! 에녹! 그리고 시온! 그리운 얼굴들이 한자리에 모였습니다. \n4명의 니어 소울워커들과 벌이는 대격전!
+10009
+스카이클락 팰리스 [ 하드 ]
+58310
+You cannot acquire this item whilst under the current conditions.
