@@ -564,7 +564,7 @@ INetCafé
 493
 Receive HEMS shipment
 494
-Использовать Дешифратор
+Дешифровать
 495
 Награда за район
 496
@@ -952,7 +952,7 @@ Duration:
 770
 м
 771
-Время
+ч
 772
 дней
 773
@@ -1024,11 +1024,11 @@ Compare sockets
 806
 XP
 807
-Brooch info
+Броши
 808
-Used area
+Слот
 809
-Не вставлена
+Нет броши
 811
 Гнёзда предмета
 812
@@ -6146,13 +6146,13 @@ Tops
 24803
 Legwear
 24804
-Hands
+Руки
 24805
-Shoes
+Обувь
 24806
-Underwear
+Бельё
 24807
-Outfit
+Костюм
 24808
 Crafting Material
 24809
@@ -6838,25 +6838,25 @@ Stamina under 10% increases your attack damage: +{0}
 26367
 Получение урона с 30% шансом увеличит раскол брони на 5 сек: +{0}%
 26368
-Evasion has a 30% probability of increasing your attack damage for 5 sec: +{0}%
+Уворот с 3% шансом увеличит урон атаки на 5 сек: +{0}%
 26369
-Evasion has a 30% probability of increasing your accuracy for 5 sec: +{0}
+Уворот с 3% шансом увеличит точность на 5 сек: +{0}
 26370
-Evasion has a 30% probability of increasing your crit damage for 5 sec: +{0}
+Уворот с 3% шансом увеличит крит. урон на 5 сек: +{0}
 26371
-Evasion has a 30% probability of increasing your partial damage for 5 sec: +{0}%
+Уворот с 3% шансом увеличит частичный урон на 5 сек: +{0}%
 26372
-Evasion has a 30% probability of increasing your super armour break for 5 sec: +{0}%
+Уворот с 3% шансом увеличит раскол брони на 5 сек: +{0}%
 26373
-Using a skill has a 3% probability of increasing your attack damage for 5 sec: +{0}
+Использование умения с 3% шансом увеличит урон атаки на 5 сек: +{0}
 26374
-Using a skill has a 3% probability of increasing your accuracy for 5 sec: +{0}
+Использование умения с 3% шансом увеличит точность на 5 сек: +{0}
 26375
-Using a skill has a 3% probability of increasing your crit damage: +{0}
+Использование умения с 3% шансом увеличит крит. урон на 5 сек: +{0}
 26376
-Sprinting has a 10% probability of increasing your attack damage for 5 sec: +{0}
+Спритн с 10% шансом увеличит урон атаки на 5 сек: +{0}
 26377
-Sprinting has a 10% probability of increasing your super armour break for 5 sec: +{0}%
+Спритн с 10% шансом увеличит раскол брони на 5 сек: +{0}
 26378
 Sprinting has a 10% probability of increasing the opponent’s defence for 5 sec: -{0}%
 26379
@@ -14190,7 +14190,7 @@ Evasion has a 5% probability of regenerating your HP by {0}%.
 27920
 Victory increases your damage reduction by {0}% for 5 sec.
 27921
-Using a skill has a 10% probability of regenerating your SF by {0}%.
+Использование умения с 10% шансом восстановит {0}% СД.
 27922
 Damage received has a 5% probability of increasing your defence by {0} for 10 sec.
 27923
@@ -15742,31 +15742,31 @@ PC를 공격하는 영감님은 반드시 상대할 필요는 없습니다.
 8407
 Day {0}
 49343
-Награда 1-го уровня, за проведенное в игре время, была отправлена вам на почту.
+Награда за вход отправлена на почту (1 уровень)
 49344
-Награда 2-го уровня, за проведенное в игре время, была отправлена вам на почту.
+Награда за вход отправлена на почту (2 уровень)
 49345
-Награда 3-го уровня, за проведенное в игре время, была отправлена вам на почту.
+Награда за вход отправлена на почту (3 уровень)
 719
-Пропустить
+Пропустить (R)
 701
-Лавка
+Лавка ({0})
 702
-Склад
+Склад ({0})
 703
-Улучшение
+Улучшение ({0})
 704
-Слияние
+Слияние ({0})
 706
-Изготовление
+Изготовление ({0})
 716
-В начало
+В начало (Q)
 717
-Назад (BKSPACE)
+Назад (E)
 729
-Recycle
+Recycle ({0})
 730
-Усиление
+Усиление ({0})
 28000
 Create Guild
 28001
@@ -15926,11 +15926,11 @@ Exalted {0}%
 8305
 #{0}
 8306
-{0}:{1}:{2}
+Заметка
 8307
 Получено
 8308
-В очереди
+— Каждый день вы получаете награду за вход в игру. После получения всех наград, на следующий день, серия начнется с начала.\n— Счётчик наград сбрасывается каждое первое число.\n— Счётчик ежедневных наград сбрасывается каждый день, в 9 часов утра.
 8309
 Дополнительная награда за проведенное в игре время
 8310
